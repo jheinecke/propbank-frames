@@ -30,8 +30,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
+        <lexlink class="cover-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="cover-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">81</lexlink>
+        <lexlink class="cover-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="coverage-n.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="contiguous_location-47.8" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="agentive subject" src="">
@@ -165,12 +171,17 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Filling" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Eclipse" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="Adorning" confidence="0.0" resource="FrameNet" src="manual+strict-conv" version="UNK"/>
         <lexlink class="fill-9.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="contiguous_location-47.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
+        <lexlink class="cover-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">36</lexlink>
+        <lexlink class="cover-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
         <lexlink class="contiguous_location-47.8" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="cover-v: ARG0 and ARG1 and ARG2" src="ontonotes mz/sinorama/10/ectb_1059">
@@ -220,10 +231,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Topic" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+        <lexlink class="cover-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">39</lexlink>
+        <lexlink class="coverage-n.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">27</lexlink>
+      </lexlinks>
       <example name="cover-v: broadcast news" src="">
         <text>Give television a chance to cover live any breaking of the law ...</text>
         <propbank>
@@ -292,11 +307,13 @@
         <role descr="coverer" f="PAG" n="0">
           <rolelinks>
             <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.3">agent</rolelink>
+            <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.4">agent</rolelink>
           </rolelinks>
         </role>
         <role descr="thing covered" f="PPT" n="1">
           <rolelinks>
             <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.3">theme</rolelink>
+            <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.4">destination</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -307,10 +324,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="fill-9.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="cover-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
+        <lexlink class="fill-9.8" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="cover_up-v: CYA" src="">
         <text>Its officials and utility subsidiaries tried to cover up their accounting for spare parts to evade federal income taxes .</text>
         <propbank>
@@ -340,7 +361,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="cover_over-v: all args" src="Brown">
         <text>They wet the lightweight cloth in a basin and covered it over with clay that Argiento brought from the bank of the Tiber</text>
@@ -365,6 +388,7 @@
           <rolelinks>
             <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.3">agent</rolelink>
             <rolelink class="Filling" resource="FrameNet" version="1.7">agent</rolelink>
+            <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.4">agent</rolelink>
           </rolelinks>
         </role>
         <role descr="thing covered" f="GOL" n="1">
@@ -374,6 +398,7 @@
             <rolelink class="Adorning" resource="FrameNet" version="UNK">location</rolelink>
             <rolelink class="Adorning" resource="FrameNet" version="UNK">location</rolelink>
             <rolelink class="Filling" resource="FrameNet" version="1.7">goal</rolelink>
+            <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.4">destination</rolelink>
           </rolelinks>
         </role>
         <role descr="covered with" f="PPT" n="2">
@@ -383,6 +408,7 @@
             <rolelink class="Adorning" resource="FrameNet" version="UNK">theme</rolelink>
             <rolelink class="Adorning" resource="FrameNet" version="UNK">theme</rolelink>
             <rolelink class="Filling" resource="FrameNet" version="1.7">theme</rolelink>
+            <rolelink class="fill-9.8" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -393,12 +419,16 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Filling" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Eclipse" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="Adorning" confidence="0.0" resource="FrameNet" src="manual+strict-conv" version="UNK"/>
         <lexlink class="fill-9.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="contiguous_location-47.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
+        <lexlink class="fill-9.8" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="coverage-n: arg2" src="">
         <text>Nanning City 's forest area has reached 344,000 , with forest coverage reaching 36.3 %</text>
