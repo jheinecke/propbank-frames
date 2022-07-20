@@ -17,6 +17,8 @@
             <rolelink class="meander-47.7" resource="VerbNet" version="verbnet3.3">theme</rolelink>
             <rolelink class="Path_shape" resource="FrameNet" version="1.7">road</rolelink>
             <rolelink class="Intentional_traversing" resource="FrameNet" version="1.7">self_mover</rolelink>
+            <rolelink class="escape-51.1-1-3" resource="VerbNet" version="verbnet3.4">theme</rolelink>
+            <rolelink class="meander-47.7-1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="location" f="LOC" n="1">
@@ -27,6 +29,8 @@
             <rolelink class="Path_shape" resource="FrameNet" version="1.7">area</rolelink>
             <rolelink class="Intentional_traversing" resource="FrameNet" version="1.7">goal</rolelink>
             <rolelink class="Intentional_traversing" resource="FrameNet" version="1.7">source</rolelink>
+            <rolelink class="escape-51.1-1-3" resource="VerbNet" version="verbnet3.4">trajectory</rolelink>
+            <rolelink class="meander-47.7-1" resource="VerbNet" version="verbnet3.4">location</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -37,13 +41,20 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Path_shape" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Traversing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Intentional_traversing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="escape-51.1-1-3" confidence="0.4" resource="VerbNet" src="manual+loose-conversion" version="verbnet3.3"/>
         <lexlink class="meander-47.7" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="ascend-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">8</lexlink>
+        <lexlink class="ascend-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
+        <lexlink class="escape-51.1-1-3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+        <lexlink class="meander-47.7-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="ascend-v: intransitive" src="">
         <text>At least not when you are ascending .</text>
         <propbank>
@@ -120,7 +131,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="With end point" src="">
         <text>The ascending of her blood pressure to 200 was concerning .</text>
