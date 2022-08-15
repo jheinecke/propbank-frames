@@ -15,6 +15,8 @@
             <rolelink class="run-51.3.2" resource="VerbNet" version="verbnet3.3">theme</rolelink>
             <rolelink class="Self_motion" resource="FrameNet" version="1.7">self_mover</rolelink>
             <rolelink class="Cotheme" resource="FrameNet" version="1.7">theme</rolelink>
+            <rolelink class="run-51.3.2-2-1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
+            <rolelink class="resign-10.11-1" resource="VerbNet" version="verbnet3.4">agent</rolelink>
           </rolelinks>
         </role>
         <role descr="entity being walked, where there is outside Agent" f="PPT" n="1">
@@ -31,6 +33,8 @@
           <rolelinks>
             <rolelink class="Self_motion" resource="FrameNet" version="1.7">goal</rolelink>
             <rolelink class="Self_motion" resource="FrameNet" version="1.7">path</rolelink>
+            <rolelink class="run-51.3.2-2-1" resource="VerbNet" version="verbnet3.4">trajectory</rolelink>
+            <rolelink class="resign-10.11-1" resource="VerbNet" version="verbnet3.4">source</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -41,12 +45,23 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Self_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cotheme" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="run-51.3.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="Movement.TransportPerson.SelfMotion" confidence="0.1" resource="AidaOntology" src="reo-expansion" version="Jan2019"/>
+        <lexlink class="Transportperson" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
+        <lexlink class="walk-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">69</lexlink>
+        <lexlink class="walk-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">13</lexlink>
+        <lexlink class="walk-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">12</lexlink>
+        <lexlink class="walk-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
+        <lexlink class="walk-n.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">6</lexlink>
+        <lexlink class="run-51.3.2-2-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+        <lexlink class="resign-10.11-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="GOL as PP" src="">
         <text>When Mr. Jacobson walked into the office at 7:30 a.m. EDT , he announced : `` OK , buckle up . ''</text>
         <propbank>
@@ -145,7 +160,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="ERA" src="">
         <text>He gave up seven hits , walked five and did n't get a decision .</text>
@@ -190,7 +207,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="I have a headache THIS BIG" src="">
         <text>Sometimes , if you have a headache , you can go out and walk it right off . ''</text>
@@ -221,7 +240,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
+      </usagenotes>
       <lexlinks/>
       <example name="walk-in-j" src="">
         <text>If you miss two appointments , you will only be able to be seen again on a walk in basis .</text>
@@ -248,7 +269,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
+      </usagenotes>
       <lexlinks/>
       <example name="walk_in-v" src="">
         <text>Paris replied that it was not like he had just walked in on her dancing the rumba with a naked Bolian .</text>
