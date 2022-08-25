@@ -13,18 +13,21 @@
             <rolelink class="escape-51.1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
             <rolelink class="Arriving" resource="FrameNet" version="1.7">theme</rolelink>
             <rolelink class="Motion" resource="FrameNet" version="1.7">theme</rolelink>
+            <rolelink class="escape-51.1-1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="extent -- rare" f="EXT" n="2"/>
         <role descr="start point" f="DIR" n="3">
           <rolelinks>
             <rolelink class="Arriving" resource="FrameNet" version="1.7">source</rolelink>
+            <rolelink class="escape-51.1-1" resource="VerbNet" version="verbnet3.4">initial_location</rolelink>
           </rolelinks>
         </role>
         <role descr="end point" f="GOL" n="4">
           <rolelinks>
             <rolelink class="Arriving" resource="FrameNet" version="1.7">goal</rolelink>
             <rolelink class="Arriving" resource="FrameNet" version="1.7">path</rolelink>
+            <rolelink class="escape-51.1-1" resource="VerbNet" version="verbnet3.4">destination</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -35,12 +38,25 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Arriving" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="escape-51.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="Transportperson" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
+        <lexlink class="Transportartifact" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
+        <lexlink class="come-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">51</lexlink>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">607</lexlink>
+        <lexlink class="come-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">34</lexlink>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">119</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">28</lexlink>
+        <lexlink class="come-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">12</lexlink>
+        <lexlink class="come-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
+        <lexlink class="come-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">23</lexlink>
+        <lexlink class="escape-51.1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="come-v: destination" src="">
         <text>Mrs. Yeargin came to work on weekends .</text>
         <propbank>
@@ -140,7 +156,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come-v: come after" src="">
         <text>Portfolio managers come after the highest rates .</text>
         <propbank>
@@ -169,7 +187,7 @@
       <roles>
         <role descr="thing (often state) arising" f="PPT" n="1">
           <rolelinks>
-            <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
+            <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="source, basis on which arg1 comes to be  (not start point of motion!)" f="MNR" n="2"/>
@@ -181,10 +199,17 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="appear-48.1.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="come-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">114</lexlink>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="come-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="appear-48.1.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="come-v: arise in" src="">
         <text>Part of the charm comes in recognizing one 's self in the novel .</text>
         <propbank>
@@ -237,8 +262,17 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
+        <lexlink class="come-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">95</lexlink>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">17</lexlink>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">18</lexlink>
+        <lexlink class="come-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">21</lexlink>
+        <lexlink class="come-v.9" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
+        <lexlink class="come-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
         <lexlink class="become-109.1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="come-v: come true" src="">
@@ -323,7 +357,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come-v" src="">
         <text>I 'm sure the house came with a child sized hole kicked in already .</text>
         <propbank>
@@ -374,9 +410,15 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
-        </lexlinks>
+        <lexlink class="come-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">23</lexlink>
+        <lexlink class="come-v.12" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="come-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+      </lexlinks>
       <example name="Zen-like blase" src="">
         <text>But as the French embody a Zen - like state of blase when it comes to athletics ( try finding a Nautilus machine in Paris ) , my fellow conventioners were having none of it .</text>
         <propbank>
@@ -413,8 +455,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
+        <lexlink class="come-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
         <lexlink class="register-54.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="come-v" src="">
@@ -452,7 +497,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
+      </usagenotes>
       <example name="come-v: both args" src="">
         <text>I 'm studying abroad for a year and my boyfriend is going to come visit me a few times times .</text>
         <propbank>
@@ -489,7 +536,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come-v" src="Minecraft">
         <text>For the ones that come out from the corner , you want to continue that diagonal with two more blue blocks .</text>
         <propbank>
@@ -526,7 +575,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_to_terms-m" src="">
         <text>In the coming decade , analysts say , U.S.-Japanese relations will be tested as Tokyo comes to terms with its new status as the region 's economic behemoth .</text>
         <propbank>
@@ -548,6 +599,7 @@
         <role descr="object" f="PPT" n="1">
           <rolelinks>
             <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
+            <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="attribute on arg1" f="PRD" n="2">
@@ -563,10 +615,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="appear-48.1.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
+        <lexlink class="appear-48.1.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="come_about-v: just object" src="">
         <text>Steeper prices have come about because supplies are low .</text>
         <propbank>
@@ -595,10 +651,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Arriving" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+      </lexlinks>
       <example name="come_in-v: I cannot imagine why" src="">
         <text>Buick came in fourth among US cars .</text>
         <propbank>
@@ -637,9 +697,13 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
-        </lexlinks>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+      </lexlinks>
       <example name="come_on-v: unaccusative" src="">
         <text>The lights came on this morning .</text>
         <propbank>
@@ -665,7 +729,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_on-v: Get real, dude" src="Brown">
         <text>Come on , now .</text>
         <propbank>
@@ -692,7 +758,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="come_on-v: both args" src="BOLT">
         <text>Be casual , as you run the risk of coming on too strong if you do anything seriously Valentine 's - y .</text>
@@ -717,6 +785,7 @@
         <role descr="thing appearing" f="PPT" n="1">
           <rolelinks>
             <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
+            <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="attribute of arg1" f="PRD" n="2"/>
@@ -728,10 +797,20 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="appear-48.1.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">15</lexlink>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="come-v.9" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">17</lexlink>
+        <lexlink class="come-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="come-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="come-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="appear-48.1.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="come_out-v: unaccusative" src="">
         <text>Scoring High first came out in 1979 .</text>
         <propbank>
@@ -806,7 +885,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_out_of_closet-m: generic idiomatic" src="">
         <text>John came out of the closet last week .</text>
         <propbank>
@@ -873,10 +954,14 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Coming_up_with" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">56</lexlink>
+        <lexlink class="come-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">45</lexlink>
+      </lexlinks>
       <example name="come_up-v: Transitive" src="">
         <text>Sellers are in a race to come up with the priciest bottle .</text>
         <propbank>
@@ -896,6 +981,7 @@
         <role descr="thing arising" f="PPT" n="1">
           <rolelinks>
             <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
+            <rolelink class="appear-48.1.1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="attribute of arg1" f="LOC" n="2">
@@ -911,11 +997,16 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Sidereal_appearance" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="appear-48.1.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+        <lexlink class="come-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="appear-48.1.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+      </lexlinks>
       <example name="come_up-v: partially made-up" src="">
         <text>Something has come up that makes it impossible for us to meet today .</text>
         <propbank>
@@ -954,9 +1045,12 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
-        </lexlinks>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+      </lexlinks>
       <example name="come_across-v: no more concatenation!" src="">
         <text>Such sudden cultural shifts may come across as a bit forced , but they seem to be genuine -- so much so , in fact , that some older employees have resisted .</text>
         <propbank>
@@ -1013,9 +1107,12 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Becoming_aware" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="come-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="encounter-30.5" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="come_across-v: Poetic Discovery" src="">
@@ -1049,9 +1146,12 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
-        </lexlinks>
+        <lexlink class="come-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+      </lexlinks>
       <example name="come_through-v: when push comes to shove" src="">
         <text>Various ministries decided the products businessmen could produce and how much ; and government - owned banks controlled the financing of projects and monitored whether companies came through on promised plans .</text>
         <propbank>
@@ -1077,7 +1177,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_through-v: bork bork bork" src="">
         <text>Perhaps because they won , Mr. Bork 's attackers come through more vividly than his defenders .</text>
         <propbank>
@@ -1106,7 +1208,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_along-v: just swimmingly" src="">
         <text>As to negotiations with creditors , Mr. Lorenzo said in remarks after the conference `` we 'll have to see how they [ talks ] come along . ''</text>
         <propbank>
@@ -1134,10 +1238,13 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Getting" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+      </lexlinks>
       <example name="come_by-v: with agent" src="">
         <text>They came by their strangeness honestly .</text>
         <propbank>
@@ -1167,7 +1274,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_down-v: fever, probably typical usage" src="">
         <text>When the weather turned cool and Chien - chien came down with a fever , Martine called my wife to offer to keep Chien - chien for the night .</text>
         <propbank>
@@ -1193,9 +1302,12 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
-        </lexlinks>
+        <lexlink class="come-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+      </lexlinks>
       <example name="come_down-v: Example with both arguments" src="">
         <text>Then it came down to who had the bad luck of sitting on the side of the car that was angled out .</text>
         <propbank>
@@ -1240,7 +1352,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Becoming_aware" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
       </lexlinks>
@@ -1271,7 +1385,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="coming_to-v: re-enter the world around you" src="">
         <text>He lost consciousness for approximately two seconds and then came to .</text>
         <propbank>
@@ -1300,7 +1416,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come_forward-v" src="">
         <text>Many celebrities came forward to adopt villages .</text>
         <propbank>
@@ -1330,7 +1448,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <example name="come-v: come_around" src="">
         <text>They do at least come around to saying that the courts might want to end `` rigid affirmative action programs . ''</text>
         <propbank>
@@ -1343,4 +1463,35 @@
       <note>COME_AROUND-V NOTES: Added by Julia during MWE framing.</note>
     </roleset>
   </predicate>
-  </frameset>
+  <predicate lemma="come_back">
+    <roleset id="come_back.34" name="arrival of results from a previously-ordered medical test">
+      <aliases>
+        <alias pos="v">come_back</alias>
+      </aliases>
+      <roles>
+        <role descr="thing coming back" f="PPT" n="0"/>
+        <role descr="attribute (results, coming back as_)" f="PRD" n="1"/>
+        <role descr="recipient" f="GOL" n="2"/>
+      </roles>
+      <usagenotes>
+        <usage resource="PropBank" version="1.0" inuse="-"/>
+        <usage resource="PropBank" version="2.1.5" inuse="-"/>
+        <usage resource="PropBank" version="3.1" inuse="-"/>
+        <usage resource="PropBank" version="3.4" inuse="-"/>
+        <usage resource="AMR" version="2019" inuse="-"/>
+        <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
+        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
+      <example name="come_back-v" src="THYME-colon-mod">
+        <text>A cardiac evaluation came back negative .</text>
+        <propbank>
+          <rel relloc="3 4">came back</rel>
+          <arg end="2" start="0" type="ARG0">A cardiac evaluation</arg>
+          <arg end="5" start="5" type="ARG1">negative</arg>
+        </propbank>
+      </example>
+      <note>COME_BACK NOTES: Added for THYME AMR.</note>
+    </roleset>
+  </predicate>
+</frameset>
