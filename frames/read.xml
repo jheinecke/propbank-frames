@@ -14,10 +14,9 @@
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.3">agent</rolelink>
             <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.3">agent</rolelink>
             <rolelink class="register-54.1-1" resource="VerbNet" version="verbnet3.3">agent</rolelink>
-            <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.4">agent</rolelink>
             <rolelink class="learn-14-2-1" resource="VerbNet" version="verbnet3.4">agent</rolelink>
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.4">agent</rolelink>
-            <rolelink class="register-54.1-1-1" resource="VerbNet" version="verbnet3.4">agent</rolelink>
+            <rolelink class="comprehend-87.2" resource="VerbNet" version="verbnet3.4">experiencer</rolelink>
           </rolelinks>
         </role>
         <role descr="thing read (book)" f="PPT" n="1">
@@ -26,25 +25,24 @@
             <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.3">source</rolelink>
             <rolelink class="register-54.1-1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
             <rolelink class="discover-84-1-1" resource="VerbNet" version="verbnet3.3">theme</rolelink>
-            <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.4">source</rolelink>
             <rolelink class="learn-14-2-1" resource="VerbNet" version="verbnet3.4">source</rolelink>
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.4">topic</rolelink>
-            <rolelink class="register-54.1-1-1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
+            <rolelink class="register-54.1-2-1" resource="VerbNet" version="verbnet3.4">theme</rolelink>
           </rolelinks>
         </role>
         <role descr="benefactive or direction" f="DIR" n="2">
           <rolelinks>
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.3">recipient</rolelink>
-            <rolelink class="register-54.1-1" resource="VerbNet" version="verbnet3.3">value</rolelink>
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.4">recipient</rolelink>
           </rolelinks>
         </role>
         <role descr="text, content" f="PPT" n="3">
           <rolelinks>
             <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.3">topic</rolelink>
-            <rolelink class="learn-14-1" resource="VerbNet" version="verbnet3.4">topic</rolelink>
             <rolelink class="learn-14-2-1" resource="VerbNet" version="verbnet3.4">topic</rolelink>
             <rolelink class="transfer_mesg-37.1.1-1" resource="VerbNet" version="verbnet3.4">topic</rolelink>
+            <rolelink class="comprehend-87.2" resource="VerbNet" version="verbnet3.4">stimulus</rolelink>
+            <rolelink class="register-54.1-2-1" resource="VerbNet" version="verbnet3.4">value</rolelink>
           </rolelinks>
         </role>
       </roles>
@@ -55,19 +53,30 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Linguistic_meaning" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Perception_experience" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="Reading" confidence="0.0" resource="FrameNet" src="manual+strict-conv" version="UNK"/>
         <lexlink class="Reading_activity" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
+        <lexlink class="Hear" confidence="0.0" resource="FrameNet" src="manual+strict-conv" version="UNK"/>
         <lexlink class="transfer_mesg-37.1.1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="learn-14-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="register-54.1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="discover-84-1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="register-54.1-1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+        <lexlink class="read-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">185</lexlink>
+        <lexlink class="read-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">21</lexlink>
+        <lexlink class="read-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">13</lexlink>
+        <lexlink class="read-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">18</lexlink>
+        <lexlink class="reading-n.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
+        <lexlink class="read-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
+        <lexlink class="reading-n.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">15</lexlink>
+        <lexlink class="register-54.1-2-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="learn-14-2-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="transfer_mesg-37.1.1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
-        <lexlink class="learn-14-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
+        <lexlink class="comprehend-87.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="read-v: prototypical reading" src="">
         <text>`` I 've read Balzac , '' he answers critics .</text>
@@ -170,7 +179,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="read_up-v: both args" src="BOLT">
         <text>The Nissan Navara was facelifted a wee while back and this made it a much better drive on the road , in the first generation they were like old trucks , read up on them .</text>
@@ -209,7 +220,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
+        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
+      </usagenotes>
       <lexlinks/>
       <example name="read_off-v: args 0, 1" src="BOLT">
         <text>can they do things like setting BMW memory settings that you normally have to pay a dealer for , or is this only for reading off engine stats etc ?</text>
