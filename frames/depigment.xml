@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="depigment-v" src="">
         <text>How exactly is Monobenzone used *PRO* to depigment the entire body ?</text>

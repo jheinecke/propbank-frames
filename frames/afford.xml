@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="transitive with adverbials" src="">
@@ -57,10 +57,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Supply" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="passive" src="">
         <text>Last year the public was afforded a preview of Ms. Bartlett 's creation in a tablemodel version , at a BPC exhibition .</text>
         <propbank>
@@ -92,7 +92,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Expensiveness" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
       </lexlinks>

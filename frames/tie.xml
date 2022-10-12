@@ -51,7 +51,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Attaching" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Rope_manipulation" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -121,10 +121,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Finish_competition" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="pithiest? barrage? who swallowed the dictionary?" src="">
         <text>The pithiest testimony to their domination of the just - concluded tournament came from Giants ' manager Roger Craig after his team had fallen in Game Three to a five - home - run barrage that tied a 61 - year - old Series record .</text>
         <propbank>
@@ -154,7 +154,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="passive" src="">
         <text>For years , the company 's ads were tied in with pitches for Cannon sheets or Martex towels .</text>
@@ -184,7 +184,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Immobilization" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
       </lexlinks>
@@ -213,7 +213,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="not nearly as interesting" src="">
         <text>About $ 70 billion is estimated to be tied up in the short - term money market , which acts both as a hedge against inflation for consumers and an accelerator of inflation and deficits for the government .</text>
@@ -242,7 +242,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="no clever example name" src="">
         <text>Mr. Mengistu is in an increasingly weak position : Half his army is tied down defending the northern city of Asmara from the Eritreans .</text>

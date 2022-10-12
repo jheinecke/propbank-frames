@@ -20,10 +20,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Transfer" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="relocate-v: all arguments" src="">
         <text>Kerr - McGee Corp. said it will spend $ 42 million to purchase land and relocate its ammonium perchlorate storage facility to Clark County , Nev. , from Henderson , Nev .</text>
         <propbank>

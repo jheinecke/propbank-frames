@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="demineralize-v" src="">
         <text>Soda demineralizes the bones , teeth , and skin , robbing you of your highest beauty by eating up your minerals .</text>

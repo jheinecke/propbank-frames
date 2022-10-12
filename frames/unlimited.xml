@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-7">
         <text>Although the power of officials are unlimited in countries not governed by the rule of law , it is only limited to their own citizens who are as meek as lambs .</text>

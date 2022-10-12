@@ -22,7 +22,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="flash_flood-n: concatenation and relemmatization, arg2" src="internet">
         <text>we are forecasting a 1 to 2 foot flash flood reaching lees ferry around 6 to 8 AM MST .</text>

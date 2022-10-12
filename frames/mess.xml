@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="don't mess with Texas" src="">
@@ -48,7 +48,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mess_up-v: now that's clever" src="">
         <text>He said the Chaos Computer Club , of West Germany , once managed to invade SPAN and do such things as change the value of pi , messing up some calculations .</text>

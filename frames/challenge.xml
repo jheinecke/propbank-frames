@@ -21,10 +21,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Difficulty" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="challenge-v: disagree with" src="">
         <text>The filing adds a new twist to market speculation that Coniston Partners , a New York money manager , has bought more than 5 % of UAL stock and may challenge the UAL board 's decision last week to remain independent .</text>
         <propbank>

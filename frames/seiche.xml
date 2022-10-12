@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <example name="seiche-n" src="">
         <text>Thankfully , the Phoenix pool seiche , if that 's what it is , is n't likely to cause much in the way of destruction .</text>
         <propbank>

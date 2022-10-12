@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="torsion-n" src="">
         <text>In men with torsion of the testes , the spermatic cord becomes twisted .</text>

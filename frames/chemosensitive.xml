@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="chemosensitive-j" src="">
         <text>Estrogen - receptor - negative breast cancer tissue is chemosensitive in vitro compared with estrogen - receptor - positive tissue .</text>
         <propbank>

@@ -39,7 +39,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Communication_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Vocalizations" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -128,7 +128,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Communication_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="breathe-40.1.2-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -207,7 +207,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Statement" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="manner_speaking-37.3" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -252,7 +252,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="args 0, 1" src="BOLT">
         <text>at first i spent the first 5 weeks *-2 crying my eyes out not sleeping , then it ended up that i felt i had done something wrong and therefore he dumped me</text>
         <propbank>
@@ -283,7 +283,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Golf haters" src="">
         <text>Hence the Parliament of King James II of Scotland decreed in 1457 that " Golfe be utterly cryed downe , " so that the people might again turn their attention to the practice of archery for the defense of the realm .</text>

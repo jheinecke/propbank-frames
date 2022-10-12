@@ -27,7 +27,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Being_in_effect" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="void-106" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -61,7 +61,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Excreting" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Emptying" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -116,7 +116,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="void-j" src="BOLT-1">
         <text>What ... so because i referred to wikipedia somehow my argument is null and void ?</text>
         <propbank>
@@ -147,7 +147,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="void-j" src="internet">
         <text>By the time the horse has acquired flesh sufficient to stand training , his bowels are void of grass , and his belly small enough to permit freedom of respiration .</text>

@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="shortened from cave in?" src="">
@@ -55,7 +55,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="typical usage" src="">
         <text>That was the question structural engineers and California transportation officials were asking themselves yesterday as rescue workers began the gruesome task of trying to extract as many as 250 victims from beneath the concrete slabs of the double - deck Nimitz Freeway in Oakland that caved in during Tuesday 's temblor .</text>

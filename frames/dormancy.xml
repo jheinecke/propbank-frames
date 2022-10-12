@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="dormancy-n" src="">
         <text>We can observe completion of germination of a single seed as an all - or - nothing event , whereas dormancy of a single seed can have any value between all ( maximum dormancy ) and nothing ( non - dormancy ) .</text>

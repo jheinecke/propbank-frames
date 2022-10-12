@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1" src="ontonotes nw/wsj/01/wsj_0142">
         <text>`` Even the 7.2 % return from the risk - free three - month Treasury bill has easily outdistanced the 4.1 % return from junk bonds , '' wrote Moody 's economist John Lonski in yesterday 's market report .</text>

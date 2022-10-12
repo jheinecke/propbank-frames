@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="threshold-v" src="">
         <text>The image is the result of thresholding the Roberts Cross output at a value of 80 .</text>
         <propbank>

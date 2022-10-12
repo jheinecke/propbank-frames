@@ -20,10 +20,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Commercial_transaction" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="transact-v: see what I mean?" src="">
         <text>The current opportunities arise because the process for executing a buy or sell order in the actual stocks that make up the S &amp; P 500 is more cumbersome than transacting in the futures market .</text>
         <propbank>

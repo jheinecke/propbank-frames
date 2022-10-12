@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="standard usage" src="">
         <text>Curious to the answer to your question as well , I just Blackled it ( www.blackle.com , an alternative to Google ) and came up with this on Wikipedia : " The Vinous - breasted Starling ( Sturnus burmannicus ) is a species of starling in the Sturnidae family . "</text>
         <propbank>

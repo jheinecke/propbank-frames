@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="cystojejunostomy" src="THYME-colon-mod">
         <text>He had a surgical cystojejunostomy in November 2003</text>

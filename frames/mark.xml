@@ -30,7 +30,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Sign" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="appoint-29.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -102,7 +102,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="image_impression-25.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="image_impression-25.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -163,7 +163,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mark_up-v: PAS!" src="">
         <text>Our hard - working team of annotators is marking up the Wall Street Journal with semantic roles .</text>
@@ -191,7 +191,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mark_up-v: transitive" src="">
         <text>`` On occasion , he paid a high price , '' Mr. Wachter concedes , but he says those who bid less and dropped out were dealers who would then have marked up the paintings to resell them at a profit to collectors .</text>
@@ -224,7 +224,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mark_down-v" src="">
         <text>June , an owner of a coffee stand , marked down the price of a latte between 7:00 A.M. and 8:00 A.M. from $ 2.00 a cup .</text>

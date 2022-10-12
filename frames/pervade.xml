@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1" src="ontonotes nw/wsj/24/wsj_2428">
         <text>But `` an eerie silence pervaded '' the junk market Friday as prices tumbled on hundreds of high - yield bonds despite `` no active trading , '' says John Lonski , an economist at Moody 's Investors Service Inc .</text>

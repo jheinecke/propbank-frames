@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="rhizomatic-j" src="">
         <text>What the rhizome metaphor is meant to impart is that the learning process is rhizomatic , it moves , shift , sprouts at different times and places ...</text>

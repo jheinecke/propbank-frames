@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="microseism-n" src="">
         <text>The FK technique was used in this case to reveal ocean - generated microseism from the Black Sea and the Mediterranean Sea consisting of fundamental mode Rayleigh waves propagating across the Bucharest area .</text>

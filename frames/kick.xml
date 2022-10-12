@@ -63,7 +63,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Cause_harm" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="split-23.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -136,7 +136,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="kick_in-v: unaccusative" src="">
@@ -166,7 +166,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="ARG0 and ARG1 and ARG2" src="probably COCA (2018 example fix)">
         <text>A well - tailored man who looked as if he 'd just stepped off the 8:20 from Manhattan made the observation that if every student kicked in $ 10 for his own school supplies , the budget could be reduced by some $ 170,000 .</text>
         <propbank>
@@ -197,7 +197,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="kick_off-v: all args" src="">
@@ -247,7 +247,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <example name="kick_bucket-m: modified from pass away" src="">
         <text>but you have [ unintellegible ] Lewis Powell was one of your sources because he kicked the bucket .</text>
         <propbank>
@@ -296,7 +296,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="get_ones_kicks-m: plural kicks, no prep" src="">
         <text>JOHN MCCAIN gets his kicks by reading military history</text>

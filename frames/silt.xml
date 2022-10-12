@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="usually unaccusative" src="">
         <text>But then it turned out that President Siad Barrah was not at all a nice person and the Navy pointed out that the base he promised us in Berbera had silted up about a hundred years ago and anyway was 1,244 miles from the mouth of the Gulf .</text>

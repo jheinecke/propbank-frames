@@ -26,7 +26,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="body_internal_motion-49.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -67,7 +67,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Classic example" src="Brown">
         <text>Lieutenant Robert M. Carroll was fresh out of ROTC and bucking for Regular Army status .</text>
@@ -96,7 +96,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="buck_up-v" src="">
         <text>In order to help instead , try approaching them from a point of encouragement rather than implying that they “ buck up ” over something little .</text>

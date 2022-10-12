@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="anniversary-n: with args 1 and 2" src="">
         <text>Investors celebrated the second anniversary of Black Monday with a buying spree in both stocks and bonds .</text>

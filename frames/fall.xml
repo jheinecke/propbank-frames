@@ -40,7 +40,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Motion_directional" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Change_position_on_a_scale" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -163,7 +163,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="occur-48.3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -216,7 +216,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Conquering" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="succeed-74-3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -297,7 +297,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="become-109.1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="convert-26.6.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -375,7 +375,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="fall-v: both args" src="BOLT">
         <text>Many people keep falling for this CON - GAME that lower taxes on the rich benefits everyone .</text>
         <propbank>
@@ -414,7 +414,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="take_fall-l" src="">
         <text>The CEO took the fall there .</text>
@@ -463,7 +463,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="fall_back-v" src="">
         <text>World Bank president Paul Wolfowitz has fallen back on his last resort .</text>
@@ -502,7 +502,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="ARG1" src="ontonotes mz/sinorama/10/ectb_1022">
@@ -543,7 +543,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="ARG1" src="ontonotes nw/wsj/16/wsj_1684">
         <text>But spokesmen for both Mr. Isler and Mr. Conner say the formation of the new syndicate has to do with Mr. Isler 's desire to skipper his own team and begin planning now , rather than any falling out between the two sportsmen .</text>
         <propbank>
@@ -579,7 +579,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="fall_through-v: bummer, dude" src="">
@@ -620,7 +620,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="break_down-45.8" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -659,7 +659,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="falling_over-n: arg ms only within the span" src="">
         <text>I 've had worse falling over during a game of footy</text>
@@ -688,7 +688,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="fell-v: active" src="">
         <text>HUGO FELLED vast timberlands .</text>

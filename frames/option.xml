@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="all args" src="wsj-nw">
         <text>Typically , developers option property , and then once they get the administrative approvals , they buy it , '' said Mr. Karatz , adding that he believes the joint venture is the first of its kind .</text>

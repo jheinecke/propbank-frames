@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Repel" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="resist-v: resistance is futile" src="">
         <text>Stocks such as Hershey Foods Corp. , Wal - Mart Stores Inc. , American International Group Inc. and Federal National Mortgage Association became such bargains that he could n't resist them , he says .</text>
         <propbank>

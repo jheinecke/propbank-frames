@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="unoccupy-v" src="internet">
         <text>Unless irrevocably ceased , and a declaration of a commitment to non - violent protest is publicly stated and adhered to , it is unlikely that Israel will " unoccupy " lands it believes are essential for its safety and security .</text>

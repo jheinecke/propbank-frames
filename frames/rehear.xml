@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="rehearing-n" src="">
         <text>Sir William Grant 's decision in that case was subsequently affirmed by Lord Brougham , in his rehearing of Devaynes v. Noble .</text>

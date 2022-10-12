@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="with amount" src="bet.01">
         <text>That would be a huge problem if it were to continue , because Unisys is staking its business on the assumption that customers want to move away from using operating systems that run on only one manufacturer 's equipment and toward systems -- mainly Unix -- that work on almost anyone 's machines .</text>
@@ -50,7 +50,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="just transitive" src="">

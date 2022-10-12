@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-7">
         <text>My specialty at college was bedroom design , and my parents ran a store selling curtains , though a time - honored store in my hometown , its profit margin is very limited since there are many brands and the competition is very fierce ,</text>

@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Residence" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="inhabit-v: passive" src="">
         <text>When all else fails , Gucci Gulch -- the fabled halls of the Capitol inhabited by lobbyists and their imported shoes -- offers a welcome environment for fallen officials .</text>
         <propbank>
@@ -58,7 +58,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="habitable-j" src="">
         <text>Exactly how a cooled - down Earth will change surface conditions -- and whether our planet will still be habitable -- nobody knows .</text>

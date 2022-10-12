@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="pre-hatching-j" src="">
         <text>A previous study indicates that , as in some parasitic nematode lineages , a pre - hatching juvenile stage also exists in Diplogastrid nematodes .</text>

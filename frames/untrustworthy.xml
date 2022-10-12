@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 1, 2" src="internet">
         <text>Breaching this covenant not only is intrinsic sin , but means such a person is untrustworthy to the original commitment made in the marriage .</text>

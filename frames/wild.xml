@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="slangified- unbelievable, crazy" src="BOLT-2,3">
         <text>It is wild to me how such an effective , strong , woman -- the closest advisor to the most powerful person in the world -- has garnered no more support , no accolades from women and blacks -- two groups who are always trying to find successful sisters or positive stories of black achievement .</text>
@@ -50,7 +50,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="internet">
         <text>The raspberries were wild and hand picked but the blackberries were purchased on sale .</text>
@@ -84,7 +84,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="internet">
         <text>I am wild about [ hosting events in ] small , intimate dining rooms in restaurants .</text>

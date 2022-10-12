@@ -42,7 +42,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Bringing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Bearing_arms" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -117,7 +117,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Giving_birth" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="birth-28.2-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -181,7 +181,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Path_shape" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Change_direction" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -222,7 +222,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="relate-86.2-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="relate-86.2-1; expired" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -273,7 +273,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG1" src="ontonotes mz/sinorama/10/ectb_1069">
         <text>Foreign research shows that those with high social and economic status and with ample financial resources bear up better during crisis and have more ways to get out of trouble .</text>
@@ -303,7 +303,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="bear_out-v: only example so far" src="">
         <text>That was borne out by the Justice Department 's decision to settle the case .</text>
@@ -338,7 +338,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="bear_down-v" src="">
         <text>Moreover , they could not secure enough force strength to bear down on feudal lords , so they had to allow feudal lords to continuously rule their domains .</text>
@@ -366,7 +366,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="bear_down-v" src="">
         <text>Officials in Taiwan braced for the worst Thursday , as a howling , screaming super typhoon bore down on the island nation .</text>
@@ -415,7 +415,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="carve-21.2-2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="carve-21.2-2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -488,7 +488,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Stimulus_focus" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Emotion_directed" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>

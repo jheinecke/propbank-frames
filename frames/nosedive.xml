@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="another verb of quantifiable motion, you know the drill" src="">
         <text>Compaq Computer nose - dived $ 8.625 a share , to $ 100 , and pulled other technology issues lower after reporting lower - than - expected earnings after the stock market closed Wednesday .</text>

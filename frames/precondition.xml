@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1 and ARG2" src="probably COCA (2018 example fix)">
         <text>Although Senator Murkowski does seem to say she does have a precondition , which is that the insurance needs to be stabilized in order for her to vote on the tax cut .</text>
@@ -49,7 +49,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="nominal with odd arg2" src="internet">
         <text>God started his preconditioning of humanity towards evil in the Garden of Eden .</text>

@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="phenomenon-n" src="">
         <text>In this lecture I wish to deal with the phenomenon of consciousness which is so extremely difficult to explain to the human mind</text>

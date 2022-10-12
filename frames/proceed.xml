@@ -30,7 +30,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Self_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Process_continue" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -99,10 +99,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Trial" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="proceeding-n: ADJ" src="">
         <text>[ Bcc ] : I ca n't shield anyone , I can only stand by the facts , I ca n't commit perjury , Cui Yi did not negotiate with me , and now I have not [ Bcc ] : halted the legal proceeding .</text>
         <propbank>

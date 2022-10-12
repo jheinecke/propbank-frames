@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="unnecessary-j" src="">
         <text>Imitate Beijing ? Perhaps . It 's unnecessary to show off ! There are a lot of rich people in China .</text>

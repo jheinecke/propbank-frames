@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="immiserateboth args" src="BOLT">
         <text>denounces the Civil Rights Act because it infringed the free - market right of a monolithic white establishment to immiserate blacks ;</text>
         <propbank>

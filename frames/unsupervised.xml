@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-7">
         <text>Now , the newest nuclear reactor in the world can remain safe even if it has been unsupervised for 36 hours after an emergency stop .</text>

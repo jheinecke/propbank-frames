@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="vroom!" src="">
         <text>John revved the motor of his 1972 Pinto .</text>
@@ -47,7 +47,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="not sure about the parse" src="">
         <text>Executive Producers Steve Sohmer and Jeff Bleckner ( and writer / producers Ken Solarz and Steve Bello ) have revved this show up to the breaking point .</text>

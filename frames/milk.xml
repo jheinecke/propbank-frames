@@ -32,7 +32,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="pit-10.7" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="pit-10.7" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -106,7 +106,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="cheat-10.6.1-1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="steal-10.5" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>

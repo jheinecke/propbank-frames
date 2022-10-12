@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1 and ARG2" src="probably COCA (2018 example fix)">
         <text>Astonishingly , the Twitter Trolls had slagged her for being too thick in the waist .</text>
@@ -50,7 +50,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="No grounds" src="BOLT">
         <text>It is important to seperate the innocent from the guilty in both industries but it 's ironic that the papers have been selling copy by basically tarring all bankers with the same brush and slagging them off mercilessly for years .</text>

@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <example name="outstretch-v" src="">
         <text>He held his torch in his right hand and outstretched his left arm for balance .</text>
         <propbank>

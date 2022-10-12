@@ -29,7 +29,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Desiring" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Attitude_description" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -96,7 +96,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="hopeful-j" src="">
         <text>This is a hopeful prospect for you</text>
@@ -124,7 +124,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="hopeful-j" src="BOLT-4,5">
         <text>And PLEASE sign this petition to raise awareness , and hopefully -LRB- yes , being very hopeful here -RRB- it will one day be debated in the House of Commons .http://epetitions.direct.gov.uk/petitions/4685</text>

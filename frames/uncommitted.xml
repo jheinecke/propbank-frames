@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-2,3">
         <text>In two of the more recent polls , between 35 - 40 % of NH voters say they are either " likely to change their mind " or " undecided / uncommitted " .</text>

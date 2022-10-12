@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-4,5">
         <text>I can be pretty insecure at times -LRB- it 's a wonder I actually made it back to hers , because I was worried I was imposing too much -RRB- , and when I woke up I panicked and said I had to go and get some work done -LRB- which I genuinely did , although thinking back on it , it was a weak reason to leave -RRB- .</text>
@@ -62,7 +62,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Being_at_risk" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
       </lexlinks>

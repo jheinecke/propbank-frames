@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Throw Your Weight Around" src="">
         <text>Jenny 's aversion to having Dr. Dunne , a former admirer , seemed silly to him , but he would humor her .</text>

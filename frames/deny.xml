@@ -37,7 +37,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Affirm_or_deny" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Statement" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -93,7 +93,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-6">
         <text>Nagoya 's Mayor Shintaro Ishihara uttered total nonsense : " when the ' Nanjing Incident ' happened in 1937 , normal acts of war are not deniable , which is a pity , but the so-called ' Nanjing Incident ' could not have happened . "</text>

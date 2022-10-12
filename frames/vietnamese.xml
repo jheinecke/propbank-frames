@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Vietnamese-j" src="">
         <text>And Sophy figured that Simone could probably say that about what was confusing for Americans because she was Vietnamese and had been through it herself .</text>

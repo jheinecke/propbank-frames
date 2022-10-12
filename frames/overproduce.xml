@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Arg0,1" src="">
         <text>Occasionally , the tumors are active , in that they overproduce certain adrenal hormones resulting in symptoms and usually requiring treatment .</text>

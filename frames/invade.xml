@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Invading" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="often with purpose clause" src="">
         <text>She has been on the move almost incessantly since last Thursday , when an army of adjusters , employed by major insurers , invaded the San Francisco area to help policyholders sift through the rubble and restore some order to their lives .</text>
         <propbank>

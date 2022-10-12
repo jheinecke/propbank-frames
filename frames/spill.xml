@@ -45,7 +45,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Fluidic_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Reveal_secret" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -103,7 +103,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both arguments" src="">
         <text>The same issue threatens to spill over to the foreign aid debate , and Mr. Bush also is threatening to veto any agreement that preserves Senate - passed provisions renewing U.S. support for the United Nations Fund for Population Activities .</text>
@@ -132,7 +132,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="with direction" src="">
         <text>Come daybreak , eight family members and two other workers unroll a sheet of raw rubber that covers the floor of the house and spills out onto the street .</text>

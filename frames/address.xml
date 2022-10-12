@@ -41,7 +41,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Statement" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Speak_on_topic" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -95,11 +95,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Resolve_problem" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Topic" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="address-v: just transitive" src="">
         <text>That should help IBM address the damage that a resurgent Storage Technology Corp. has inflicted in that market .</text>
         <propbank>
@@ -150,10 +150,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Speak_on_topic" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="address-n: Args 1 &amp; 2" src="NomBank Frames">
         <text>In a foreign - policy address before the Soviet legislature , theforeign minister conceded that the radar station in Krasnoyarskbreached the superpower Anti - Ballistic Missile treaty and said itwould be dismantled .</text>
         <propbank>

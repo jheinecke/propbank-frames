@@ -18,10 +18,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Prohibiting_or_licensing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="sentential action" src="">
         <text>Each right entitles the shareholder to buy $ 100 face amount of 13.5 % bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share .</text>
         <propbank>
@@ -90,10 +90,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Name_conferral" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="ARG0 and ARG1 and ARG2" src="ontonotes nw/wsj/06/wsj_0694">
         <text>Your editorial mockingly entitles this legislation the `` Lawyers ' Employment Act . ''</text>
         <propbank>

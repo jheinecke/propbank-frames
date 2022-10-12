@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Robbery" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="mug-v: passive" src="BOLT">
         <text>I literally do not understand why those people did n't just get mugged and beaten to death as soon as they started stealing 2 million in student money and then throwing parties with it .</text>
         <propbank>

@@ -32,7 +32,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Path_shape" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Go_into_shape" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -102,7 +102,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="SMS">
         <text>Yea . I do really like him but I want us to be friends first . Can u explain this to him ? Like I really want us to get to knowhim . I m not gon na sleep w hi m . He gets too twisted about shit</text>

@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="transitive with adverbials" src="">
         <text>But while the merits of diversification shine through when times are tough , there 's also a price to pay : A diversified portfolio always underperforms an undiversified portfolio during those times when the investment in the undiversified portfolio is truly hot .</text>

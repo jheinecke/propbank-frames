@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="must be Los Angeles" src="">
         <text>But the truth is that almost everyone , from real - estate agents to city fathers , name - drops ; and a surprising number of people have an ancient uncle who claims he lived next door to the cartoonist who did the Katzenjammer Kids .</text>

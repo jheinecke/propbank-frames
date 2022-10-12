@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="seism-n" src="internet">
         <text>The report , from the National Research Council , states that the last major quake to hit the United States was the 7.8 magnitude seism in San Francisco in 1906</text>

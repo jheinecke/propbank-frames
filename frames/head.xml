@@ -27,7 +27,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Leadership" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="contiguous_location-47.8" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -64,10 +64,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Self_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="movin' and shakin'" src="">
         <text>The exchange is headed for a real crisis if program trading is n't curbed .</text>
         <propbank>
@@ -95,7 +95,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example src="Flickr" name="Both args">
         <text>The athlete headed the ball with her forehead , and appeared to control the direction .</text>
         <propbank>
@@ -125,7 +125,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="head_off-v: Head them off at the pass!" src="">
@@ -155,7 +155,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1" src="ontonotes mz/sinorama/10/ectb_1029">
         <text>Dr. Johnsee Lee , who as well as heading up the Biomedical Engineering Center is also general director of Union Chemical Laboratories , a research institute under the ITRI umbrella , says that due to biochips ' advantages of miniaturization , parallelism , speed and the ability to reveal the " big picture , " they have a very wide range of applications .</text>
@@ -184,7 +184,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="headed-j: both args" src="medi-tmprl">
         <text>If she is still fuzzy - headed , we should probably go ahead and proceed to permanent pacing , which was discussed at length today , including a potential for bleeding , infection , cardiac and lung injury with pacemaker implantation .</text>

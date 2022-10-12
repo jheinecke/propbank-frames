@@ -23,11 +23,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Abusing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Attack" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="aggression-n: Arg0" src="BOLT">
         <text>Where 's the public outcry about Russian veto and unilateralism -LRB- a criticism routinely employed - rightly -against the United States when it vetoes resolutions on Israeli aggression -RRB- ?</text>
         <propbank>
@@ -78,7 +78,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="aggression-n: Arg0" src="BOLT">
         <text>The cancer 's aggression is partly a result of its location .</text>

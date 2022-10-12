@@ -28,7 +28,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Stage_of_progress" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cause_to_make_progress" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -80,7 +80,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="modern-j" src="BOLT-4,5">
         <text>It apeas Noth Korea has started enriching uranium at a brand new plant that apparently is very modern .</text>

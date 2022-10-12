@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="internet">
         <text>They may in fact regard it ridiculous , even shameful to jump on their bandwagon and join their chorus of righteous indignation against ' terrorism ' .</text>

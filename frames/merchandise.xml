@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>`` The name Classic Coke has tremendous value , and they have n't merchandised that name before , '' says Jesse Meyers , publisher of the trade journal Beverage Digest .</text>

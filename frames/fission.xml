@@ -22,7 +22,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="fission-v" src="">
         <text>Typically , a large nucleus like that of uranium fissions by splitting into two smaller nuclei , along with a few neutrons , the release of heat energy ( kinetic energy of the nuclei ) , and gamma rays .</text>

@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="broach-v" src="">
         <text>No one was even allowed to broach the subject of human rights during the period of martial law , and though it was a cherished goal of activists , their efforts were limited to the political realm .</text>

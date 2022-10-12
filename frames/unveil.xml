@@ -19,11 +19,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Reveal_secret" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Publishing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="basic transitive" src="">
         <text>The Avon , Conn. , company 's stock hit a high in 1983 after it unveiled its Adam home computer , but the product was plagued with glitches and the company 's fortunes plunged .</text>
         <propbank>

@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="blizzard-n: args 1 and 2" src="internet">
         <text>I 'm going to be honest and say that it is hard to get motivated to go out to the gym when my area just went through a snow blizzard with 15 - 17 inches worth of snow .</text>

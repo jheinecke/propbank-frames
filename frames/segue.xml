@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="segue-v (common typo)" src="">
         <text>Another time I 'll segueway into all the fun work related instances where " Mommies " get out of doing work and hiding behind childcare as the reason .</text>

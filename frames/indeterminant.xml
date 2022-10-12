@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="indeterminant-j" src="">
         <text>HER2 / neu -LRB- c-erbB-2 gene product -RRB- : Indeterminant -LRB- FISH studies pending ; addendum report to follow -RRB-</text>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="template-v" src="">
         <text>Nanomechanical devices and algorithmic self - assembly have also been demonstrated , and these DNA structures have been used to template the arrangement of other molecules such as gold nanoparticles and streptavidin proteins .</text>

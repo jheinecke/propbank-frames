@@ -22,10 +22,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Taking_sides" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="back-v: support" src="">
         <text>... asking him to back a Palestinian bid to joing the committee .</text>
         <propbank>
@@ -94,7 +94,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="run-51.3.2-2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -125,7 +125,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="back-v: with PP" src="">
         <text>John 's house backs onto the city dump .</text>
@@ -155,7 +155,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="back_up-v: Reaganomics" src="">
@@ -191,7 +191,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="back_up-v: ARG1" src="ontonotes wb/c2e/00/c2e_0015">
         <text>" Rocks were moved onto the road , and several dozen peasants stood in the middle of the road , several hundred cars were backed up , and rocks were thrown at the police .... "</text>
@@ -226,7 +226,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="back_up-v: ARG1 and ARG0" src="ontonotes nw/wsj/14/wsj_1424">
         <text>That strip of concrete is backed up by a few one - story , air - conditioned shacks where a handful of American nationals -- buttressed by imported food , cold soft drinks and back issues of Sports Illustrated -- maintain radio contact with the outside world .</text>
@@ -254,7 +254,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="back_up-v: instrumental subject" src="">
         <text>Exabyte Corp. , a Boulder , Colo. , maker of high - capacity tape cartridge used to back up computer disk drives , started OTC trading with the symbol EXBT .</text>
         <propbank>
@@ -279,7 +279,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="back_up-v: Schuylkill expressway" src="">
         <text>The companies block traffic much as highway on - ramps are blocked when traffic backs up .</text>
@@ -317,7 +317,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Departing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="withdraw-82-2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>

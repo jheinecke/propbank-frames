@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Arg1 and Modifiers" src="00060">
         <text>It is vital to maintain formal diplomatic relations with as many countries as possible until such time as there is a tacit diplomatic cease - fire with Communist China .</text>

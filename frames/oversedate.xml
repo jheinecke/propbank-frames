@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="Arg0, Arg1" src="">
         <text>Due to the nurse 's oversedation of Brittany , she slept for four days .</text>
         <propbank>

@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mudslide-n" src="">
         <text>The object is to slow a 50 mph mudslide down to 5 - 10 mph to allow the sediment to settle .</text>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="crisis-n: arg2" src="BOLT">
         <text>And so , after all that , which you might justly consider paranoia , my question is basically this ; in light of the threat of peak oil , and of the general decline in American economic might relative the rest of the world -LRB- not to mention the current U.S. crisis -RRB- , what do think the world will look like in a decade or two ?</text>

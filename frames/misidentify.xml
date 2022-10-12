@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="misidentify-v" src="">
         <text>Caplan has been known to wrap his own preferences up and misidentify them as being " rational " while asserting that those he disagrees with have " irrational " preferences .</text>

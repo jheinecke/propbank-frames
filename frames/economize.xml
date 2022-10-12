@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>While some 100 million ounces of silver once held by Mr. Hunt and Middle Eastern associates are n't hanging over the market anymore , the price surge of 1979 - 80 precipitated an expansion of mine production and scrap recovery and encouraged silver consumers to economize on silver use , Mr. Edgar says .</text>

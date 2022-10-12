@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT-7">
         <text>If it is said that Taiwan people were still cagey and secretive about the issue of " Unification or Independence " from the past until now , and closed their mouths to not discuss it , and disputes about " Unification or Independence " even triggered ethnic group conflicts , then this Taiwan " General Election " has more and more ordinary people publicly acknowledging the benefits of the " 1992 Consensus , "</text>

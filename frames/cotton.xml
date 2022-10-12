@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="From BOLT" src="">
         <text>Some liberals do n't much cotton to " uppity " blacks like Powell , Thomas and Rice confronting racial discrimination and outright racism and leaving the plantation of dependency on white liberals and achieving the great things they are capable of .</text>

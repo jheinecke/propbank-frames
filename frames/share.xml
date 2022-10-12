@@ -20,11 +20,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Commonality" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Sharing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="no second sharer" src="">
         <text>It has n't diversified beyond steel , nor has it linked up with a joint venture partner to share costs and risks .</text>
         <propbank>
@@ -114,7 +114,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="unmentioned shareholders" src="">
         <text>Seeking to to overcome the currency problems , Mr. Giffen 's American Trade Consortium , which comprises Chevron Corp. , RJR , Johnson &amp; Johnson , Eastman Kodak Co. , and Archer - Daniels - Midland Co. , has concocted an elaborate scheme to share out dollar earnings , largely from the revenues of a planned Chevron oil project .</text>
         <propbank>

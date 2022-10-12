@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="">
         <text>Mr. Thornburgh will be free to disband the strike forces after Congress approves a $ 479 million appropriation for federal law - enforcement and drug - interdiction agencies , according to David Runkel , a Justice Department spokesman .</text>

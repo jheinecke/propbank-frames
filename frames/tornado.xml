@@ -22,7 +22,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="tornado-n: args 2, 5" src="internet">
         <text>think about being inside an F4 tornado with wind at 218 miles an hour .</text>

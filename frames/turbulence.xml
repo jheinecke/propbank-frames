@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="turbulence-n" src="">
         <text>The turbulence of classical fluids is an everyday phenomenon , which can be readily observed in the flow of a stream or river .</text>

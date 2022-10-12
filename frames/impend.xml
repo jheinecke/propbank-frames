@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="here it comes!" src="">
         <text>Rumors of an impending devaluation have been circulating in Moscow for weeks , but the size of the cut took many Western bankers by surprise .</text>

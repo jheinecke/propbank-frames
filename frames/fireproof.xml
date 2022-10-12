@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="only corpus ex is nominal" src="">
         <text>A spokesman for the company said the verdict is thought to be the first in favor of an asbestos manufacturer where the plaintiff was a school and the asbestos in question was used for fireproofing .</text>

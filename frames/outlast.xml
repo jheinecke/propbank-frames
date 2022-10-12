@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="pretty simple" src="">
         <text>Japan 's marathon economy , growing at 4.3 % this year , is now in its 35th month of expansion , and some economists are betting that the boom will outlast the record 57 - month expansion in the late 1960s .</text>

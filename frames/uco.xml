@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="UCO-v" src="">
         <note>When the pro is traced to the object position, it should be arg 1 as it is the proto-patient</note>
         <text>UCO'd</text>

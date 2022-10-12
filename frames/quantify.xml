@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="just transitive" src="">
         <text>`` We can not quantify the total adverse effects of Hugo , '' said Edwin Colodny , chairman and president of USAir Group .</text>

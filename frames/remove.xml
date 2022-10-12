@@ -47,7 +47,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Removing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Undressing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -120,7 +120,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1, MNR" src="medi-Tmprl">
         <text>I will be in touch either through the patient or through Dr. Rivera in followup in terms of whether she goes to surgery or whether he feels this might be something that might be amenable to endoscopic removal , but from talking with Dr. Howard it sounds like it probably is not endoscopically removable , and she will probably need an operation .</text>

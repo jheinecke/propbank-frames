@@ -38,7 +38,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Supply" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Giving" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -82,7 +82,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ergative" src="">
         <text>I support Saudis arming up though , as I do for all Muslim nations , weapons may be useful in future .</text>
@@ -112,7 +112,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="stiff_arm-v" src="">
         <text>If Megawati does stiff - arm the United States on the weapons issue , it is unlikely relations with Washington will be permanently damaged .</text>

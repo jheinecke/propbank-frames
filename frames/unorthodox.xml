@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="unorthodox-j" src="">
         <text>The criticism that Freud was unorthodox highlights the confusion regarding who should have the authority to decide what is true psychoanalytic technique .</text>

@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="almost always adjectival" src="">
         <text>The company claims a 40 % share of the U.S. field fence business , a 35 % share of poultry netting sales and a 30 % share of barbed wire sales .</text>

@@ -33,7 +33,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Labeling" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Simple_naming" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -86,7 +86,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="come_to_terms-m" src="">
         <text>Thus , the brig Elisa was wrecked off the Fiji group about the year 1808 , and the ex - convict passengers , managing to reach the mainland , soon came to amicable terms with the cannibals they found there .</text>
@@ -131,7 +131,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="come_to_terms-m" src="">
         <text>Last summer , we came to terms with the fact that burgers basically contain hamster bedding .</text>

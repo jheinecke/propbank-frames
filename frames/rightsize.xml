@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="right-size-v" src="">
         <text>And so Republicans that are going to be successful next year are Republicans that show a real distinction between the status quo and getting out economy moving again by cutting taxes and right - sizing government .</text>
         <propbank>

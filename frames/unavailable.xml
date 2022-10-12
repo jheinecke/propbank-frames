@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg2, PRP" src="medi-seedcorpus">
         <text>The histologic subtype of the patient 's 2994 breast carcinoma is unknown and unavailable to review at the time of this dictation .</text>

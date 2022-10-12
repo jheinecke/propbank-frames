@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="precaution-v: Arg0,1" src="">
         <text>I precautioned him , to be observing and circumspect , as he proceeded , to procure all the intelligence , he could , but not to be too soon alarmed .</text>
@@ -69,7 +69,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="take_precaution-l" src="">
         <text>The reason I feel that may have a case to be answered is that surely mortgage company must take some precautions when selling an intrest only mortgage</text>

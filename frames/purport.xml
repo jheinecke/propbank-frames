@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="they all look like this" src="">
         <text>The new letter purports to do this , saying that in addition to $ 7 a share in cash , StatesWest would offer one share of new 6 % convertible preferred stock of StatesWest it values at $ 3 a share .</text>

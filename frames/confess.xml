@@ -47,7 +47,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Reveal_secret" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="confess-37.10" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -55,7 +55,7 @@
         <lexlink class="say-37.7-1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="declare-29.4" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="say-37.7-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        </lexlinks>
+      </lexlinks>
       <example name="standard" src="">
         <text>'' Mr. Sohmer confesses that it was partly in response to such attitudes that he is now `` a dweller on one of the two islands off the coast of America . ''</text>
         <propbank>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="epidemic-n: args 1, 2" src="internet">
         <text>Anderson said he was still predicting the Bovine Spongiform Encephalopathy ( BSE ) epidemic in cows would be `` at an extremely low level by 2001 . ''</text>

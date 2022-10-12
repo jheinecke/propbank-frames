@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="with CAU" src="WSJ">
         <text>If a veto is unworkable because it would leave part of the executive branch unfunded , the president could sign the appropriations bills into law and assert a power of excision , declaring the rider restricting his Article II powers to be unconstitutional and severable .</text>
@@ -44,7 +44,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 1, 2" src="internet">
         <text>This specimen proved simply unworkable into tablets or granules and had to be discarded .</text>

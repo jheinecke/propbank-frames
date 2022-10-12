@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="globalize-v: transitive" src="">
         <text>The system has globalized the ways in which production is performed on our planet .</text>
@@ -58,7 +58,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="global-j" src="">
         <text>While the Unzen eruptions have caused deaths and considerable local damage , the impact of the June 1991 eruption of Mount Pinatubo was global .</text>

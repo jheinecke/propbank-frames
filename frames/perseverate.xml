@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="perseverate-v" src="">
         <text>On the medicine , he says he was able to fully shift his attention from one situation to the next rather than perseverate on a previous conversation ,</text>

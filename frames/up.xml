@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up-v: up yours!" src="">
         <text>Then the two camps upped the ante : Reports that Chosen Soren had donated directly to JSP members were rapidly countered by statements that the South Korean residents ' organization had long been donating directly to LDP members .</text>
@@ -48,7 +48,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up-j: args 1, 5" src="medi-tmprl">
         <text>She is still volume up , and I suspect part of her respiratory difficulties are secondary to fluid overload .</text>
@@ -87,7 +87,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up-j" src="">
         <text>One our our cats is up in a tree .</text>
@@ -156,7 +156,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up-j: arg1" src="medi-tmprl">
         <text>Mrs. Kent has continued to recover from surgery and is currently up sitting in bed during consultation today .</text>
@@ -193,7 +193,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up-j" src="">
         <text>The seniors were more up on things</text>
@@ -257,7 +257,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="up_creek-m" src="internet">
         <text>I figured I was up shit creek on this but I was hoping for a at least half a paddle .</text>

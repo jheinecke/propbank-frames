@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="desolate" src="">
         <text>The silence oppressed him , made him bend low over the horse 's neck as if tohide from a wind that had begun to blow far away and was twisting slowlythrough the darkness in its slow search .</text>

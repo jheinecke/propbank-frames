@@ -30,10 +30,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Getting" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="score-v: tor!" src="">
         <text>John 's soccer team scored 115 points against the neighborhood kids .</text>
         <propbank>
@@ -116,7 +116,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="score-v: unhelpful passive" src="">
         <text>Also , Teodulo Mabellini 's `` Lux aeterna '' was intriguingly scored and splendidly put across by Mr. Rilling .</text>

@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Guidelines" src="">
         <text>Guidelines on this subject issued in August 2001 by Deputy Attorney General Larry Thompson essentially recapitulated prior guidance .</text>

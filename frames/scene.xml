@@ -28,7 +28,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="make_scene-m: be in" src="">
         <text>Its embarrassing to walk into a place and have somebody make a scene about you .</text>

@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="sleazy-j" src="">
         <text>I knew this place was sleazy after coming back from the restroom and seeing the bartender stripped down showing my date the tattoos that covered the front side of his body .</text>

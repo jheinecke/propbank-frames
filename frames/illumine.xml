@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="transitive" src="">
         <text>His being and His will -- Stevie could not divide God from his Papa -- illumined every parish face , turned the choir into a band of angels , and the pulpit into the tollgate to Heaven .</text>

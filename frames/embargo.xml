@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>On Oct. 22 , led by Saudi Arabia , the world 's largest exporter , they embargoed oil shipments to the U.S. and to the Netherlands , Israel 's staunchest European ally .</text>

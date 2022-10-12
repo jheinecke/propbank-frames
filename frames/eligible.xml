@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="WSJ">
         <text>These 3.8 million people also are eligible to get one percentage point off GMAC 's advertised finance rates , which start at 6.9 % for two - year loan contracts .</text>

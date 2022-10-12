@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1, single word" src="internet">
         <text>The official time for the kickoff of Super Bowl 47 is 6:30 p.m. Eastern Time on Sunday , Feb. 3 , 2013 , the NFL has announced .</text>

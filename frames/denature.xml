@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="example with agent" src="">
         <text>We denatured the RNA / primer combinations , assembled the reactions and incubated for coupled RT - PCR .</text>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>But the panel dismissed the magazine 's contention that it had n't libeled Mrs. Sutcliffe when it accused her of trying to sell her story to capitalize on the notoriety of her husband .</text>

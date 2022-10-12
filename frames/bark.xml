@@ -38,7 +38,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Make_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Communication_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -109,7 +109,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="bark_up_wrong_tree-v: stupid idioms" src="">
         <text>They are barking up the wrong tree , because it is basically their fault they ca n't attract new employees .</text>

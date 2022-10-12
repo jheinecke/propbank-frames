@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT">
         <text>You get to where it 's supposed to be , and there is just an old white - mustached prospector with a gravelly voice askin how you heard about " The Block Buster "</text>

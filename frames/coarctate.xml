@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="coarctate-v: args 1, 2" src="">
         <text>Both specimens are somewhat irregularly grown , especially the larger one ( B ) , and have at a certain period of growth coarctated the circumference of the calicle and formed , as it were , a new calicle with a new theca within the old calicle ( fig . 6 ) and then again enlarging to the former size .</text>

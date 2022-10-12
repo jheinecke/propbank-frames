@@ -17,12 +17,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Opinion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="figure-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">17</lexlink>
       </lexlinks>
       <example name="most common usage" src="">
         <text>He figures P &amp; G will expand its personal - care product line in Japan to `` continue that momentum . ''</text>
@@ -62,8 +59,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="rely-70" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -104,12 +99,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="amalgamate-22.2-3-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="figure-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
         <lexlink class="amalgamate-22.2-3-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="not exactly a role" src="">
@@ -140,8 +132,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="passive" src="">
         <text>This had been the exclusive province of those rich enough to use six - figure sums to get income that was figured beyond the third or fourth decimal place .</text>
@@ -168,8 +158,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="Discoursey" src="BOLT">
@@ -225,13 +213,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Coming_to_believe" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="discover-84-1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="figure-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">30</lexlink>
         <lexlink class="discover-84" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="you figure it out" src="">

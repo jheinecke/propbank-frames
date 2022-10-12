@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="vasoconstrict-v" src="">
         <text>for the most part , sympathetic stim . causes arterioles of vascular beds to vasoconstrict ( hence the increase in blood pressure ) .</text>

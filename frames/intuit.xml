@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="intuit-v" src="">
         <text>In plumbing the monk 's essence she intuited that some of his ideas were nonsense , but he was a sincere believer in Christe and in the things he said .</text>

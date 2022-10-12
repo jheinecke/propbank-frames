@@ -66,8 +66,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Bringing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -77,25 +75,6 @@
         <lexlink class="Taking" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="steal-10.5" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="bring-11.3" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="Conflict.Attack.StealRobHijack" confidence="0.1" resource="AidaOntology" src="reo-expansion" version="Jan2019"/>
-        <lexlink class="Transfermoney" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="Transferownership" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="Transportperson" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="Transportartifact" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="Attack" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="take-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">148</lexlink>
-        <lexlink class="take-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">49</lexlink>
-        <lexlink class="take-v.14.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">160</lexlink>
-        <lexlink class="take-v.8" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">34</lexlink>
-        <lexlink class="take-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">38</lexlink>
-        <lexlink class="take-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">106</lexlink>
-        <lexlink class="take-v.12" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">15</lexlink>
-        <lexlink class="take-v.9" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">44</lexlink>
-        <lexlink class="take-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">51</lexlink>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">183</lexlink>
-        <lexlink class="take-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">19</lexlink>
-        <lexlink class="take-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">37</lexlink>
-        <lexlink class="take-v.15" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">12</lexlink>
         <lexlink class="devour-39.4" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="steal-10.5" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="bring-11.3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -163,14 +142,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
-        <lexlink class="take-v.12" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
-        <lexlink class="take-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">20</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take-v: tough movement" src="">
         <text>That got hard to take .</text>
         <propbank>
@@ -228,14 +202,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="convert-26.6.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="take-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">22</lexlink>
-        <lexlink class="take-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
-        <lexlink class="take-v.14.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
         <lexlink class="convert-26.6.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take-v: ARG0 and ARG1 and ARG2" src="ontonotes mz/sinorama/10/ectb_1042">
@@ -283,13 +252,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="characterize-29.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
-        <lexlink class="take-v.7" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">36</lexlink>
         <lexlink class="characterize-29.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take-v: bummer" src="">
@@ -372,8 +337,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Taking_time" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -381,7 +344,6 @@
         <lexlink class="cost-54.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="require-103" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="fit-54.3" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="take-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">124</lexlink>
         <lexlink class="cost-54.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="require-103" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="fit-54.3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -444,8 +406,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take-v: surprise!" src="">
         <text>Rumors of an impending devaluation have been circulating in Moscow for weeks , but the size of the cut took many Western bankers by surprise .</text>
@@ -484,12 +444,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take-v: ballooning?  really?" src="">
         <text>Americans it seems have followed Malcolm Forbes 's hot - air lead and taken to ballooning in a heady way .</text>
         <propbank>
@@ -528,13 +485,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Theft" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="Stealing" confidence="0.0" resource="FrameNet" src="manual+strict-conv" version="UNK"/>
-        <lexlink class="Transportartifact" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
       </lexlinks>
       <example name="take-v: the syntax should look like this" src="">
         <text>In the divorce , she took him for half of everything .</text>
@@ -572,18 +525,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">97</lexlink>
-        <lexlink class="take-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">50</lexlink>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">12</lexlink>
-        <lexlink class="take-v.14.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
-        <lexlink class="take-v.9" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
-        <lexlink class="take-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
-        <lexlink class="take-v.15" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take.LV: take lesson" src="">
         <text>Sony took a lesson from the American management books .</text>
         <propbank>
@@ -629,8 +573,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take-v" src="">
         <text>She will take after you when she grows up</text>
@@ -660,8 +602,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take-n" src="">
         <text>My take on this is that " we too " probably sounds overly formal to most listeners .</text>
@@ -692,8 +632,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Protest" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -748,12 +686,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Removing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="take-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
         <lexlink class="remove-10.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take_away-v: Calgon, take me away!" src="">
@@ -793,12 +728,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Ingestion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="take-v.12" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
       </lexlinks>
       <example name="take_in-v: Arg0 rel Arg1" src="">
         <text>This exclusive club has taken in a host of flashy new members</text>
@@ -835,8 +767,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="take_in-v: Args 0 &amp; 1" src="">
@@ -900,12 +830,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Undressing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="take-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">9</lexlink>
         <lexlink class="remove-10.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take_off-v: ARG0 and ARG1" src="ontonotes mz/sinorama/10/ectb_1048">
@@ -944,8 +871,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_off-v: zoom" src="">
         <text>The pace has taken off .</text>
@@ -983,8 +908,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_off-v: mental health day" src="">
         <text>And when Mr. Engelken asked him why he took time off from work for somebody he did n't even know ...</text>
@@ -1025,12 +948,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take_off-v: leavin' on a jet plane..." src="">
         <text>Keep in mind that this is the same movie in which a character is flattened by a steamroller only to pop right back up and peer in the window of a Boeing 747 -- from the outside -- as it takes off .</text>
         <propbank>
@@ -1068,8 +988,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Departing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -1127,15 +1045,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Hiring" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="adopt-93" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">12</lexlink>
-        <lexlink class="take-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">7</lexlink>
-        <lexlink class="take-v.12" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
         <lexlink class="adopt-93.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
         <lexlink class="hire-13.5.3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -1203,13 +1116,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="confront-98" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">8</lexlink>
-        <lexlink class="take-v.15" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="confront-98" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take_on-v: David and Goliath" src="">
@@ -1250,12 +1159,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.11" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">13</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take_out-v: take out an ad" src="">
         <text>A company once took out an ad .</text>
         <propbank>
@@ -1293,8 +1199,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_out-v: Typical Usage" src="">
         <text>Whether they take it out on Governor Schwartzeneggar in California could be another test of that as well .</text>
@@ -1334,8 +1238,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_out-v: Both args, typical usage" src="BOLT part 1">
         <text>Remember when we went in to take out Bin Laden we could n't tell the Pakistani government for fear that Bin Laden would have been tipped off and escaped ...</text>
@@ -1372,8 +1274,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="take_out-v: args 0, 1" src="BOLT">
@@ -1433,15 +1333,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Change_of_leadership" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="adopt-93" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="Attack" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="take-v.9" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">58</lexlink>
-        <lexlink class="takeover-n.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">31</lexlink>
         <lexlink class="obtain-13.5.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="take_over-v: unstated object" src="">
@@ -1537,12 +1432,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take_up-v: vaguely passive" src="">
         <text>Most of the picture is taken up with endless scenes of talking heads .</text>
         <propbank>
@@ -1581,12 +1473,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">10</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="take_up-v: active" src="">
         <text>The Senate will take up the measure quickly .</text>
         <propbank>
@@ -1624,12 +1513,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Activity_start" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="take-v.5" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">13</lexlink>
       </lexlinks>
       <example name="take_up-v" src="">
         <text>He took up knitting</text>
@@ -1658,8 +1544,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_up-v" src="">
         <text>Police officers took up their positions across the Gaza Strip , enjoying a freedom of movement they have not known since the intifada exploded in September 2000 , the source said .</text>
@@ -1691,8 +1575,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_aback-v: only passive" src="">
         <text>He is taken aback in an interview when asked whether , as mayor , he plans on reforming the political `` fiefdoms '' that perpetuate the monumental ineffectiveness of New York 's school system .</text>
@@ -1737,8 +1619,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_down-v" src="">
         <text>and that is to take down their nuclear program dismantle it dismantle their weapons of mass destruction programs in a verifiable way before all those assurances can go into place .</text>
@@ -1775,8 +1655,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
       </usagenotes>
       <example name="taking-n: both args" src="internet">
         <text>There are two very amusing Grant scenes : his taking a bath in his suit and playing an orange - under - the - jaw game in a nightclub .</text>
@@ -1834,8 +1712,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="take_with_grain_of_salt-m: both args" src="deft-df">
         <text>I take every single word uttered by Israel with a grain of salt the size of Jupiter ,</text>
@@ -1860,17 +1736,15 @@
         <role descr="substance" f="PPT" n="1"/>
       </roles>
       <usagenotes>
-        <usage resource="PropBank" version="1.0" inuse="-" />
-        <usage resource="PropBank" version="2.1.5" inuse="-" />
-        <usage resource="PropBank" version="3.1" inuse="-" />
-        <usage resource="PropBank" version="3.4" inuse="-" />
-        <usage resource="AMR" version="2019" inuse="-" />
-        <usage resource="PropBank" version="Flickr 1.0" inuse="-" />
-        <usage resource="AMR" version="Spatial 1.0" inuse="-" />
-        <usage resource="AMR" version="THYME 1.0" inuse="+" />
-        <usage resource="PropBank" version="3.5" inuse="+" />
+        <usage resource="PropBank" version="1.0" inuse="-"/>
+        <usage resource="PropBank" version="2.1.5" inuse="-"/>
+        <usage resource="PropBank" version="3.1" inuse="-"/>
+        <usage resource="PropBank" version="3.4" inuse="-"/>
+        <usage resource="AMR" version="2019" inuse="-"/>
+        <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
+        <usage resource="PropBank" version="3.5" inuse="+"/>
       </usagenotes>
-      <lexlinks />
+      <lexlinks/>
       <example name="uptake-n, both args, common usage" src="THYME-colon-mod">
         <text>PET scan showed mild FDG uptake in the pelvis .</text>
         <propbank/>

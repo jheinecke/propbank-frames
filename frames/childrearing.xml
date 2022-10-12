@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="the arg" src="internet">
         <text>unless we know the significance of the action for the mother we can not understand what is going on in her childrearing .</text>
         <propbank>

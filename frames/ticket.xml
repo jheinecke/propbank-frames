@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG1 and ARG2" src="ontonotes nw/wsj/09/wsj_0966">
         <text>`` Never Too Young '' is a different sort of work , focusing on the 1986 death from cocaine ingestion of Bias , a University of Maryland basketball star ticketed for sure pro stardom .</text>
@@ -65,7 +65,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Fining" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="butter-9.9" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>

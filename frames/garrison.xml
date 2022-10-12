@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="garrison-v: args0, 2" src="BOLT-7">
         <text>The US at once had a wolf by the ear . Finally , the US had to make its attitude clear : its garrisoning in the Philippines could be done by flexible and cyclic means .</text>

@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args0, 1" src="BOLT-7">
         <text>Any Communist Party members or officials who call themselves " princes " are ignorant of history and culture , profane the Communist Party principles , insult the officers with position , disregard the people 's benefits , and individually make reckless statements and expose their own greed .</text>

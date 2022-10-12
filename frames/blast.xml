@@ -30,7 +30,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Make_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cause_to_make_noise" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -102,10 +102,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Judgment_communication" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="blast-v: all args" src="">
         <text>Kemper also blasted the Big Board for ignoring the interests of individual and institutional holders .</text>
         <propbank>
@@ -161,7 +161,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="blast-v: 3-2-1-blastoff!" src="">
         <text>The space shuttle Atlantis blasted into orbit from Cape Canaveral , Fla. , and its crew of five astronauts launched thenuclear - powered Galileo space probe on a flight to the planetJupiter .</text>
@@ -211,7 +211,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Explosion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="remedy-45.7" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -300,7 +300,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="have_blast-l: This was about a baby liking the boxes more than his Christmas presents" src="">
         <text>But he had a total blast with the boxes .</text>
@@ -329,7 +329,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="blast_away-v: ghostbusters" src="">
         <text>But they do n't careen around in an old Cadillac , wear funny suits or blast away at slimy spirits .</text>
         <propbank>
@@ -358,7 +358,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="blast_off-v: take off" src="">
         <text>The unmanned rocket blasted off this morning from Kazakhstan .</text>

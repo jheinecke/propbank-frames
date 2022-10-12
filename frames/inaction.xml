@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 0, ADJ" src="BOLT-6">
         <text>In the results publicly released by the Songyuan Municipal Discipline Inspection Commission , it said , in view of the illegal administrative inaction of Gao Yong , vice - mayor of Fuyu County and the other six people , after discussion , the standing committee of Songyuan Municipal Discipline Inspection Commission decided to deal with it ... and so on .</text>

@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Violence" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="violent-j: arg1" src="BOLT-1">
         <text>But from what i 've observed via TSR and many news sources ; the way they 're trying to achieve them , is largely violent EDIT : specific coverage of EDL , whom seem to make the headlines a little more .</text>
         <propbank>

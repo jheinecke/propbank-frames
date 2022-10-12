@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1" src="ontonotes mz/sinorama/10/ectb_1068">
         <text>The economic malaise which has spread through Taiwan in just the last two years is rapidly overtaking tens of thousands of middle - aged workers .</text>

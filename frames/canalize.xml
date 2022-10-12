@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="canalize-v" src="">
         <text>... the travertine embankment walls of the late 19th century effectively canalized the whole Tiber much as the Cloaca canalized the forum stream ...</text>

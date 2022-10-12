@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="resequence-v" src="internet">
         <text>We resequenced the genome of Clostridium difficile 630Δerm ( DSM 28645 ) , a model strain commonly used for the generation of insertion mutants .</text>

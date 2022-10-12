@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="lionize-v: bad luck" src="">
         <text>Additionally , since you 're going to be hors de combat pretty soon with sprue , yaws , Delhi boil , the Granville wilt , liver fluke , bilharziasis , and a host of other complications of the hex you 've aroused , you must n't expect to be lionized socially .</text>

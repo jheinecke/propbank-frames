@@ -18,10 +18,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Arriving" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="near-v: transitive" src="">
         <text>Investors usually do n't want to take physical delivery of a contract , preferring instead to profit from its price swings and then end any obligation to take delivery or make delivery as it nears expiration .</text>
         <propbank>
@@ -58,7 +58,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="near-j: arg1" src="SMS">
         <text>Not sure if we are added yet but figured I would ask since we are near . Thanks .</text>

@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="nonunification-n: no args" src="BOLT-7">
         <text>Generally court - reform efforts have attempted to move State court systems from the extreme of fragmented nonunification to a unified system that is characterized by consolidation and simplification of court structure , centralized management , centralized rulemaking , centralized budgeting , and State financing .</text>
         <propbank>

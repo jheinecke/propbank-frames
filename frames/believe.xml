@@ -45,7 +45,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Awareness" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Opinion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -121,7 +121,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="believable-j: arg1" src="BOLT-6">
         <text>Connected to this , last year India actually took some actions as to this , and these words should be believable . We are not wrong in analyzing it this way :</text>
@@ -171,7 +171,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="make_believe-m: Both args" src="BOLT">
         <text>You can make believe things are getting better or you can understand that things are getting worse and deal with it .</text>

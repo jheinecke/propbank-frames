@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="racket-v: make celebratory noises" src="">
         <text>He racketed around amoung them .</text>
@@ -64,7 +64,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="racketeer-v" src="">
         <text>On his way from the Place Vendome , through Lyons , Avignon , the villages and towns of the Languedoc , and thence to the Pyrenees , he racketeered in shoes , soap , and blankets .</text>

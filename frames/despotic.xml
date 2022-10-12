@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="BOLT-7">
         <text>The reason for saying he is " audacious " is that , as a public servant , he violently beat others over a minor disagreement ; furthermore , he used a great deal of violence such as " choking " and " kicking heavily with his feet , " resulting in a " left scapula fracture and left clavicle dislocation " ; we therefore see how despotic Li is and how low his quality is during ordinary times .</text>

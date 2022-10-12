@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="repurpose-v: All args" src="BOLT">
         <text>Reading the comments to the WSJ article , I was interested to see two of the first six or seven mention repurposing part of the building to be a library .</text>
         <propbank>

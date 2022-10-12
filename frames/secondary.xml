@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="medi seed corpus">
         <text>These findings are likely secondary to chronic edema secondary to venous stasis although differentiation of the tumor from the benign skin thickening is difficult .</text>

@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT-7">
         <text>Though Putin 's election can alleviate a small amount of the strategic pressure on China , pinning all our hopes on his election is indeed strategically and politically shortsighted and naive .</text>

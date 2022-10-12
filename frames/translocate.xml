@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="source and destination" src="">
         <text>The RNA - binding protein TIAR is translocated from the nucleus to the cytoplasm during Fas - mediated apoptotic cell death .</text>

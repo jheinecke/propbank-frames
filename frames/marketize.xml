@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="marketization" src="BOLT-6">
         <text>But the countries which are supposed to be engaged have been engaged ; if you want to expand the market , you = have to = make those whatever authoritarian countries democratic , and let = it take take the road to marketization</text>

@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="all ARGs" src="">
         <text>In the second part of this experiment , we vascularized thawed ovaries with deep inferior epigastric vessels by means of microvascular anastomosis under surgical microscope .</text>

@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="fungate-v: Arg1" src="">
         <text>The wounds from the primary skin tumor fungated , becoming malodorous and quite painful .</text>
         <propbank>
@@ -45,7 +45,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="fungus-v" src="">
         <text>Another problem is that sometimes bad eggs will fungus and the fungus will spread out and kill all the eggs .</text>

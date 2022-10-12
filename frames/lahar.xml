@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="lahar-n" src="">
         <text>Can the Minister confirm that the department 's report states that a 1,000,000 - tonne lahar dropping from a height of 8,000 feet is likely sometime in the next 3 years</text>

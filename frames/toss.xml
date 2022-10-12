@@ -39,7 +39,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Body_movement" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cause_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -118,7 +118,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="toss_out-v: yer outta here" src="">
         <text>The judge handling the case in state Supreme Court , a trial court , had tossed out the jury verdicts , ruling that the matter should have been handled under federal Occupational Safety and Health Administration rules .</text>
@@ -148,7 +148,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="toss_in-v" src="">
         <text>I 'll toss in Hiroshima and Nagasaki .</text>
@@ -180,7 +180,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="toss_up-n" src="">
         <text>It was a toss - up between Royal and Carnival .</text>

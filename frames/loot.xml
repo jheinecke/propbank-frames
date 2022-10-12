@@ -19,10 +19,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Theft" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="intransitive" src="">
         <text>I 'm surprised he did n't advocate letting people loot , since that behavior can also be foreseen in a disaster and `` every individual has an incentive to alter the distribution of income in his favor . ''</text>
         <propbank>

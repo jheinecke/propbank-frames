@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT">
         <text>However , bombing ground troops in order to allow armed rebels to rampage further west is , in my opinion , completely against the spirit of the UN resolution .</text>

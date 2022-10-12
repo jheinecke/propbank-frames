@@ -25,7 +25,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="deplorable grammar" src="">
@@ -55,7 +55,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="failing grade" src="">
         <text>John squared three to ten .</text>
@@ -83,7 +83,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT-7">
         <text>I hope Chinese government officials can boldly square their shoulders when speaking and not be overly cautious , and do not casually and easily waste the dignity and prestige of our motherland on a person who is so obstinate that he does n't understand history and also ignorant and idiotic .</text>
@@ -117,7 +117,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="active" src="">
         <text>Not only are Japan 's financial institutions putting their enormous clot to work ; increasingly they 're squaring off against one another in unprecedented public fashion .</text>

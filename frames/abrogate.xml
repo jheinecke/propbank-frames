@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="abrogate-v: active use" src="">
         <text>Cleavage site mutations in the encephalomyocarditis virus P3 region lethally abrogate the normal processing cascade .</text>

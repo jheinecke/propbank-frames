@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="'as a lawyer' is arg 1 because he had to prove to be a good lawyer first" src="">
         <text>He endured a twelve - month probation as a lawyer before partnership discussions could take place .</text>

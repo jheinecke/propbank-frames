@@ -22,7 +22,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="lyse-v: intentional agent" src="">
         <text>Thus , we lysed cells transfected with mutant SOD1 at earlier time points .</text>

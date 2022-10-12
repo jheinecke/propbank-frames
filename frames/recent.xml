@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="recent-j" src="">
         <text>Yes , he was wrong to jump to the conclusion that the article was recent , but that did n't mean he was wrong .</text>
         <propbank>

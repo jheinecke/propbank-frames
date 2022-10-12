@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="without causer" src="">
         <text>The importance of recognizing kinking of the aorta lies in the fact that it can mimic other more serious conditions , such as mediastinal tumor or aortic aneurysm .</text>

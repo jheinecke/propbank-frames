@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="bad stylistics" src="">
         <text>'' Today , he frets , exports and business investment spending may be insufficient to pick up the slack if stock prices sink this week and if consumers retrench in reaction .</text>

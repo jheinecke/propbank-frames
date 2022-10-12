@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="absolute-j: arg1" src="BOLT-7">
         <text>The proletariat ideological belief is absolute ; Marxism is the basic principle , and is relative , from the global perspective , learning from advanced , absorbing civilizations , and constantly creating new values .</text>

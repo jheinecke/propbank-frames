@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="pleomorphic-j" src="">
         <text>That of the white component was pleomorphic and spindle cell sarcoma with a storiform pattern , resembling malignant fibrous histiocytoma ( Fig . 1e ) .</text>

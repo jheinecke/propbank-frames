@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="expedition-n: all args" src="internet">
         <text>Ducie Street was not discovered till the Monday , the day that Margaret and her husband went down on their hunting expedition to Howards End .</text>

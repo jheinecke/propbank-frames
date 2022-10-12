@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="exponential-j" src="">
         <text>Radioactive decay is exponential because the number of atomic nuclei breaking up at a given moment is proportional to the number of nuclei that actually exist at that moment .</text>

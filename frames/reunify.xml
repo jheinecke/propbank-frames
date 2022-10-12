@@ -23,7 +23,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1" src="ontonotes mz/sinorama/10/ectb_1031">
         <text>This July , a book published by the PRC entitled Chinese Foreign Policy , the Year 2000 , declared that its most important foreign policy goal is to " reunify the country , " and strongly attacked Taiwan 's efforts to be admitted to the United Nations .</text>

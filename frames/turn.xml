@@ -57,7 +57,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Moving_in_place" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cause_to_move_in_place" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -204,7 +204,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Cause_change" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Undergo_change" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -299,7 +299,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="turn-v: this really does occur" src="">
         <text>The voters turned thumbs down on the proposed bill .</text>
         <propbank>
@@ -327,10 +327,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Contingency" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn-v" src="">
         <text>Instead , it turns on the disputed and elusive facts of `` who did what to whom . ''</text>
         <propbank>
@@ -357,7 +357,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="turn-v: turn a prophet?" src="">
         <text>Why should they have to co - exist with opportunists rushing in to turn a quick profit ?</text>
@@ -385,7 +385,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="turn-v: Typical usage, all args" src="BOLT phase 1">
         <text>It is to the great , abiding shame of women and blacks PRO to turn their backs on the great achievements of these people .</text>
         <propbank>
@@ -426,7 +426,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="turn_away-v: ARG0 and ARG1" src="ontonotes nw/wsj/04/wsj_0469">
@@ -465,10 +465,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Respond_to_proposal" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn_down-v: transitive" src="">
         <text>Separately , the Federal Energy Regulation Commission turned down for now a request by Northeast seeking approval of its possible purchase of PS of New Hampshire .</text>
         <propbank>
@@ -511,10 +511,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Submitting_documents" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn_in-v: ARG0 and ARG1 and ARG2" src="ontonotes bn/abc/00/abc_0028">
         <text>He says , I 'm going to turn these pictures in to my superiors and they 're going to determine if it is fortune - telling .</text>
         <propbank>
@@ -543,7 +543,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Surrendering" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
       </lexlinks>
@@ -583,10 +583,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Change_operational_state" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn_on-v: tune in, turn on, drop out" src="">
         <text>But the genes were accompanied by a piece of DNA , called a promoter , that turns the genes on .</text>
         <propbank>
@@ -615,10 +615,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Change_operational_state" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn_off-v: ARG0 and ARG1" src="ontonotes bn/mnb/00/mnb_0001">
         <text>Protesters blocked roads across Yugoslavia and so many coal miners walked off the job , the government - run electric company may start to to turn off power .</text>
         <propbank>
@@ -646,7 +646,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="turn_off-v: ARG0 and ARG1 and ARG2" src="ontonotes bc/msnbc/00/msnbc_0004">
         <text>Is this a -- is this ten day suspension enough to turn them off to drugs / ?</text>
         <propbank>
@@ -674,7 +674,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="turn_out-v: ARG0 and ARG1" src="ontonotes wb/eng/00/eng_0004">
         <text>Will the last ones out `` free market '' Virginia please turn out the lights on your way to North Carolina ?</text>
         <propbank>
@@ -705,7 +705,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="turn_out-v: transitive" src="">
@@ -734,7 +734,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="turn_out-v: ARG1" src="ontonotes mz/sinorama/10/ectb_1057">
@@ -782,7 +782,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="turn_out-v: glitterati" src="">
@@ -825,10 +825,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Giving" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="turn_over-v: ARG0 and ARG1 and ARG2" src="ontonotes mz/sinorama/10/ectb_1054">
         <text>Getting on in years , Yeh turned over day - to - day responsibility for the business to his hard - nosed second son Yeh Chui - jing a decade ago .</text>
         <propbank>
@@ -869,7 +869,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="turn_up-v: poof!" src="">
@@ -910,7 +910,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="turn_around-n" src="Minecraft">
         <text>Should I turn around ?</text>
@@ -958,7 +958,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="turn_around-v" src="Spatial">
         <text>You should turn around so I can see your whole outfit</text>

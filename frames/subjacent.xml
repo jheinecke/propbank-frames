@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="internet">
         <text>This is subjacent to 27 feet of blue , finely laminated limestone , with white streaks , upon which rests a red bed ot calcareous conglomerate 2 feet thick ;</text>

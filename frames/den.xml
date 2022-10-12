@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="den-v" src="">
         <text>Two of 7 males denned in rock cavities , 4 in brush thickets or mostly open beds , and 1 young male displayed no sign of denning .</text>

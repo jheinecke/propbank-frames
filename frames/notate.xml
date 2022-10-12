@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 1, 2" src="internet">
         <text>Many of its musical ideas were notated from insect and bird sounds recorded at Kalsow Prairie near Fort Dodge and drastically slowed down ...</text>

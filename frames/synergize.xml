@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="all arguments" src="">
         <text>In contrast , IL-1 , which activates only the NF - IL6 pathway , synergizes with heat shock to produce strong activation of hsp90 .</text>

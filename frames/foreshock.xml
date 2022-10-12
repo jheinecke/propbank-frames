@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="foreshock-n" src="">
         <text>I recall the 5.1 magnitude foreshock in August 1989 , a full six weeks before the 7.1 magnitude World Series ( or Loma Prieta ) Earthquake .</text>

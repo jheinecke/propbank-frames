@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="extrafamilial-j" src="">
         <text>Children whose abuse was intrafamilial took longer to disclose than children whose abuse was extrafamilial .</text>
         <propbank>

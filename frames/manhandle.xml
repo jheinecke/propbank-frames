@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="words fail me" src="">
         <text>The owner , who begs anonymity , asserts that the dwarf , appearing as a dark shadow , has manhandled her , tossing her around the living room and yanking out a hank of hair .</text>

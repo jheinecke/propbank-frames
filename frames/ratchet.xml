@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="quasi-nominal" src="">
         <text>But the 1989 fall total of 80 , while well below 1988 activity , shows `` a steady ratcheting up in citizen referenda and initiatives , '' says Patrick McGuigan , editor of Family , Law and Democracy Report .</text>

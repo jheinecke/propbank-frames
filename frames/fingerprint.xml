@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="fingerprint-v" src="">
         <text>The North Koreans actually fingerprinted him for snagging a stupid poster and sentenced him to 15 yrs ? ! ?</text>

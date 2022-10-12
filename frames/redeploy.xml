@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>First , they are designed to eliminate the risk of prepayment -- mortgage - backed securities can be retired early if interest rates decline , and such prepayment forces investors to redeploy their money at lower rates .</text>

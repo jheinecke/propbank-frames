@@ -35,18 +35,12 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Activity_start" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Process_start" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="begin-55.1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
         <lexlink class="begin-55.1-1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
-        <lexlink class="start-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">351</lexlink>
-        <lexlink class="start-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">111</lexlink>
-        <lexlink class="start-n.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">37</lexlink>
-        <lexlink class="start-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">46</lexlink>
       </lexlinks>
       <example name="ARG0 and ARG1 and ARG2" src="ontonotes nw/xinhua/02/chtb_0249">
         <text>The author starts the discussion from September of that year with Israel 's signing the Declaration of Principles of Palestinian Autonomy with the Palestine Liberation Organization , and looks back at the complex struggles of the Middle East over the past several hundred years , especially the most recent half century .</text>
@@ -172,8 +166,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="start-v: Classic example" src="-">
@@ -202,8 +194,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
       </usagenotes>
       <example name="start-v: All arguments" src="invented">
         <text>Dr. Mary started the patient on antibiotics .</text>
@@ -248,8 +238,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="marvel-31.3" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
@@ -287,8 +275,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="start-n: Example with args 1 and 3" src="">
@@ -344,12 +330,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="begin-55.1-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="start-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="begin-55.1-1-1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="start_off-v: bellringing!" src="">
@@ -390,12 +373,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="start-v.3" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">3</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="start_up-v" src="">
         <text>When Southwest Airlines started up at Lambert , it was with one gate and a scattering of destinations .</text>
         <propbank>
@@ -425,12 +405,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
-        <lexlink class="start-v.1" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">5</lexlink>
-      </lexlinks>
+        </lexlinks>
       <example name="start_out-v: Intransitive" src="">
         <text>Loretta started out as a volunteer .</text>
         <propbank>
@@ -468,8 +445,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="start_in-v: all args" src="">
         <text>My dad started in on me about not having a job .</text>
@@ -500,8 +475,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="start_over-v: args 0 and 2, + ADV" src="BOLT">
         <text>And you will have to start over from square 1 with the VA .</text>

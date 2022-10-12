@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="historicize-v: Passive, arg1 only" src="wsj-nw">
         <text>Why not watch or hear your experience historicized while you were living it ?</text>
         <propbank>

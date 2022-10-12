@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Args 0 &amp; 2" src="web">
         <text>Instead members of the Saudi royal family must either overpay or overbuy from foreign companies in order for those companies to return a percentage of that money .</text>

@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="conceptualize-v: All args" src="">
         <text>We can more easily conceptualize speed in miles per hour .</text>
@@ -51,7 +51,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="conceptual-j" src="BOLT-7">
         <text>The Kuomintang Party only struggles objectively , has no thought system and ideological content ; the goal of its struggle is just conceptual and its members can have all kinds of thoughts .</text>

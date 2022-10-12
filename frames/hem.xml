@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Emperor's new skirt? All args" src="internet">
         <text>Then I carefully hemmed the skirt with an invisible hem .</text>
@@ -50,7 +50,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="passive, both args" src="WSJ">
         <text>Instead of the usual straggling privet hedges and patches of bare dirt in most small - town squares , the building was hemmed in by a semitropical growth of camellias and azaleas and a smooth lawn the improbably bright - green shade of florist 's grass .</text>

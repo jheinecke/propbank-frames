@@ -31,15 +31,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Breathing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="split-23.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="blow-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">11</lexlink>
-        <lexlink class="blow-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="split-23.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="blow-v" src="">
@@ -129,8 +125,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="build-26.1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -174,8 +168,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow-v: curse" src="">
@@ -213,13 +205,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Breathing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="weather-57" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="blow-v.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="weather-57" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="blow-v: intransitive" src="">
@@ -264,15 +253,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Explosion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Detonate_explosive" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="Conflict.Attack.AirstrikeMissileStrike" confidence="0.1" resource="AidaOntology" src="reo-expansion" version="Jan2019"/>
-        <lexlink class="Conflict.Attack.Bombing" confidence="0.1" resource="AidaOntology" src="reo-expansion" version="Jan2019"/>
-        <lexlink class="Attack" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
         <lexlink class="split-23.2" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="blow-v: unaccusative" src="">
@@ -336,8 +320,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow-v: transitive" src="">
@@ -385,8 +367,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow-v: oops, I did it again" src="">
@@ -426,8 +406,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow-v: Sunday hangover" src="">
@@ -468,8 +446,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <example name="blow-v" src="">
         <text>That blows !</text>
@@ -496,13 +472,9 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Attack" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        <lexlink class="Attack" confidence="0.1" resource="ERE" src="reo-expansion" version="rich"/>
-        <lexlink class="blow-n.2" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">23</lexlink>
       </lexlinks>
       <example name="blow-n: NP only, args 0, 1 TMP" src="NomBank Frames">
         <text>a fourth - quarter blow to earnings from the California earthquake</text>
@@ -569,8 +541,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow_up-v: balloons" src="">
@@ -624,14 +594,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="Explosion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="split-23.2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
-        <lexlink class="blow-v.4" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">27</lexlink>
-        <lexlink class="blow-v.6" confidence="0.1" resource="onsense" src="annot-overlap" version="on5">4</lexlink>
         <lexlink class="split-23.2; expired" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
       <example name="blow_up-v: ergative boom" src="">
@@ -686,8 +652,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow_out-v: boom" src="">
@@ -734,8 +698,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="+"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="+"/>
       </usagenotes>
       <lexlinks/>
       <example name="blow_over-v: the arg" src="BOLT">
@@ -812,8 +774,6 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        <usage resource="AMR" version="Spatial 1.0" inuse="-"/>
-        <usage resource="AMR" version="THYME 1.0" inuse="-"/>
       </usagenotes>
       <lexlinks>
         <lexlink class="meet-36.3-2" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>

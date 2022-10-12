@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="cyclone-n: arg2" src="internet9">
         <text>Queensland , Australia was slammed by an F5 Cyclone this afternoon ( American EST ) .</text>

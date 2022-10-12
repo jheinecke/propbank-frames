@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="spirited-j, treed as verb" src="">
         <text>`` There are enough enlightened and spirited individuals who know their responsibilities , '' he says .</text>
@@ -46,7 +46,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="spirits-n" src="">
         <text>He complained about some mild postoperative abdominal pain but was in good spirits and very well oriented to his disease .</text>
@@ -81,7 +81,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="spirit-n" src="">
         <text>Time passes , and the circumstances surrounding Lei Feng are different than those of today 's students . So , this new age should inject a new significante to the Lei Feng spirit .</text>

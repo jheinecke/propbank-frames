@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="parry, dodge, spin, thrust" src="">
         <text>The burning question is whether the new chief can parry Mr. Icahn without being pushed into unwelcome moves .</text>

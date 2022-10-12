@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Science" src="">
         <text>... an increasing diversity of broken symmetries in the universe creates the diversity of structures and processes that can constitute and identify ramified and ramifying sources of energy ...</text>
@@ -58,7 +58,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 0, 1" src="internet">
         <text>The price hike of petroleum has its ramifications on market goods , commodities of daily use , and others as well .</text>

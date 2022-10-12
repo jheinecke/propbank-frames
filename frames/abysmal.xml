@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="abysmal-j" src="">
         <text>EPS of patients treated between 1975 and 85 was abysmal at 8.5 percent which has increased to 45 percent 2 - year - EFS in the recent analysis .</text>
@@ -44,7 +44,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="abysmal-j" src="">
         <text>She was abysmal at games and hated these turn of phrase ones .</text>

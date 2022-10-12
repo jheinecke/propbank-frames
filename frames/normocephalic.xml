@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="normocephalic-j: arg1" src="SHARP">
         <text>HEENT : Normocephalic ; Atraumatic , Anicteric , Eomi , PERRL , NL VF by confrontation .</text>
         <propbank>

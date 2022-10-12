@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="extranodal-j" src="THYME-colon-mod">
         <text>Four of 14 removed lymph nodes were involved by adenocarcinoma with extranodal extension .</text>

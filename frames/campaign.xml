@@ -20,10 +20,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Military_operation" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="positive campaign" src="">
         <text>Mr. Bush has long campaigned for passage of a bill or a constitutional amendment that would explicitly give him a line - item veto , which would enable him to kill individual items in a big spending bill without having to kill the entire bill .</text>
         <propbank>

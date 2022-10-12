@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="the one example" src="">
         <text>Hard - hitting consultants match ads with Mr. Courter 's team , and Mr. Florio retools himself as the lean , mean Democratic fighting machine of the 1990s .</text>

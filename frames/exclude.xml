@@ -36,7 +36,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Inclusion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Exclude_member" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -142,7 +142,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="exclusive-j" src="">
         <text>The infinity pool was exclusive for guests who booked a room for overnight stay so the pool is n't overcrowded and you would have a little privacy ( although , there were occasional sneaks from " day - users " using the infinity pool ) .</text>

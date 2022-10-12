@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args 1,2" src="BOLT-71">
         <text>This is akin to a steamed meat bun dropping into the mouth of a dog . If you want it to spit it out , it is : Difficult ! Difficult ! Difficult !</text>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="imperceptibility-n" src="">
         <text>This strong emphasis on our senses as the principal source of all knowledge makes the imperceptibility of the soul very problematic .</text>

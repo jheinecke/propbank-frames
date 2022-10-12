@@ -22,11 +22,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Commerce_sell" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Submitting_documents" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="just bidder and goods" src="">
         <text>Ford will bid for 100 % of Jaguar 's shares</text>
         <propbank>
@@ -138,7 +138,7 @@ BID-N NOTES: Roleset based on verb entry bid.01, OntoNotes grouping bid-n senses
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="secondary predication" src="">
@@ -179,7 +179,7 @@ BID-N NOTES: Roleset based on verb entry bid.01, OntoNotes grouping bid-n senses
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         </lexlinks>
       <example name="farewell" src="">
@@ -245,7 +245,7 @@ BID-N NOTES: Roleset based on verb entry bid.03, OntoNotes grouping bid-n sense 
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="All arguments" src="">
         <text>John 's bid of eight hearts was n't enough to win .</text>
@@ -275,7 +275,7 @@ BID-N NOTES: Roleset based on verb entry bid.03, OntoNotes grouping bid-n sense 
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Arg 0 only" src="NomBank Frames">
         <text>Computers do his bidding</text>

@@ -57,7 +57,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Attempt_suasion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Telling" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -134,7 +134,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="Wouldn't be prudent" src="BOLT P01, parts 2,3">
         <text>It 'll cost a lot to do it which would not be advisable at the current time with the economic situation not looking rosy ,</text>

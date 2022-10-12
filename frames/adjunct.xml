@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="adjunct-v" src="">
         <text>Well so far only adjuncting is available to me . i d like to do something else but i m not sure what that is</text>
         <propbank>

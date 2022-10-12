@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="apparently no one launders clothes anymore" src="">
         <text>A witness set to testify on Thursday was quoted in a news report over the weekend as saying Lincoln `` laundered '' campaign contributions illegally .</text>

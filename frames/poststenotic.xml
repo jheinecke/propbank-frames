@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="poststenotic-j" src="">
         <text>This procedure will give the user three set of values , one set that is prestenotic , one that is poststenotic and finally one set that gives the post implanted values .</text>

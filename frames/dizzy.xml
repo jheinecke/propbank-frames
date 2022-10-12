@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="dizzy-v: ARG1" src="probably COCA (2018 example fix)">
         <text>The first time the show 's star Richard Dormer read the script , he said the structure dizzied him .</text>
@@ -53,7 +53,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="dizzy-j" src="">
         <text>Finally , though , he stayed inside until his face was flushed bright red and he was dizzy from the heat .</text>

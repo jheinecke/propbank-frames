@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="args0, 2" src="BOLT">
         <text>She mooches off me , comes over uninvited , and saw my pic on my desk top when my hair was really short and curled and said what was I thinking and it looked really bad .</text>

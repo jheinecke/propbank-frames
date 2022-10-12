@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="I don't like this example" src="">
         <text>Four tubular steel `` Bedfellows , '' each roughly in the shape of a `` W , '' are attached to the bottom of the box spring in a recessed position .</text>
@@ -44,7 +44,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0" src="ontonotes nw/wsj/01/wsj_0112">
         <text>It also empowers the president to make recess appointments , without Senate approval : `` The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate , by granting Commissions which shall expire at the End of their next Session . ''</text>

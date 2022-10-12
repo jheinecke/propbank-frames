@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="example with destination" src="">
         <text>However , neutrophils are of main importance , physiologically as well as pathologically , after they have left circulation and transmigrated to extravascular tissues .</text>

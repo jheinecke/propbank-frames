@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="transitive" src="">
         <text>Pan Am has subpoenaed several government agencies , including the CIA and FBI , to determine whether they were warned that a bomb had been planted aboard a jet that exploded over Scotland last December , killing 270 people .</text>

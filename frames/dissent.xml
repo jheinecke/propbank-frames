@@ -29,11 +29,11 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Quarreling" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Taking_sides" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="ARG0 and ARG1" src="ontonotes nw/wsj/02/wsj_0240">
         <text>Fed Vice Chairman Manuel Johnson , who had dissented from the Treasury 's policy , told lawmakers , `` I became convinced about what looked to me like an attempt to push the dollar down against the fundamentals in the market . ''</text>
         <propbank>

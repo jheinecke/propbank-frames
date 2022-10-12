@@ -37,7 +37,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Frequency" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Part_inner_outer" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -102,7 +102,7 @@ AVERAGING-N NOTES: Added by Julia based on BOLT, average.01. Corresponds to VNcl
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="average-j: both args" src="internet">
         <text>The first is a master a gaming , the latter is average at doing all things .</text>
@@ -131,7 +131,7 @@ AVERAGING-N NOTES: Added by Julia based on BOLT, average.01. Corresponds to VNcl
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Desirability" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Typicality" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -166,7 +166,7 @@ AVERAGING-N NOTES: Added by Julia based on BOLT, average.01. Corresponds to VNcl
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="averaging-n: all args" src="">
         <text>his averaging a 220 at bowling</text>
         <propbank>

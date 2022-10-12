@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="mischaracterize-v: with attribute" src="">
         <text>I think it would be a mistake to mischaracterize him simply as a tough or a tough guy or a bully .</text>

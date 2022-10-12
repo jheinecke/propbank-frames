@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="typical usage" src="">
         <text>The Soviet Union has halted construction of two Chernobyl - type nuclear reactors and is reassessing the future of 12 other existing reactors .</text>

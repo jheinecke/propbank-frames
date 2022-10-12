@@ -25,10 +25,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Change_of_leadership" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="transitive" src="">
         <text>Here , at a soccer stadium near the black township of Soweto yesterday , were eight leaders of the African National Congress , seven of whom had spent most of their adult lives in prison for sabotage and conspiracy to overthrow the government .</text>
         <propbank>

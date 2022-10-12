@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arching over" src="">
         <text>The most controversial of the Brady recommendations involved establishing a single overarching regulator to handle crucial cross - market questions , such as setting consistent margin requirements for the stock and futures markets .</text>

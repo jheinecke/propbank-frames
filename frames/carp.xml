@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="carpe diem: fish of the day" src="">
         <text>Rivals carp at `` the principle of Pilson , '' as NBC 's Arthur Watson once put it -- `` he 's always expounding that rights are too high , then he 's going crazy . ''</text>

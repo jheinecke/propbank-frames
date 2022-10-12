@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="wall_off-v: usually without arg2" src="">
         <text>But even before Wang 's latest financial troubles surfaced , some customers `` were trying to wall off their Wang installations '' so other departments would n't add Wang , says Chris Christiansen , a former Wang marketer who is now a market analyst with Meta Group , a market research firm in Stamford , Conn.</text>

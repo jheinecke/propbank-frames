@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="science discourse" src="">
         <text>We can not prestate the configuration space of a biosphere and , therefore , can not deduce that which will unfold .</text>
         <propbank>

@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="entertainment" src="">
         <text>As they waited for supper they sat by the fire , glasses in hand , while Byron philosophized as much for his own entertainment as hers .</text>

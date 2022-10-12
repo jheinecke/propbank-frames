@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="usually transitive" src="">
         <text>The petition challenged First Union 's lending record in the state , saying that the bank - holding company had `` shut itself off from contact with the low - income community and is redlining almost every black neighborhood that it serves in the state . ''</text>

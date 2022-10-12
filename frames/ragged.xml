@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="medi seed corpus">
         <text>The outer surface is brown - tan , ragged with adherent yellow , lobulated adipose tissue and the inner surface is pink - tan , smooth and focally granular .</text>

@@ -34,7 +34,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Experiencer_obj" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Stimulus_focus" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -72,7 +72,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="sad-j" src="BOLT-1">
         <text>It really is sad , in its most basic sense , because it hinders fixing what their " every man is an Island " philosophy that is tearing apart the fabric of society .</text>

@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="binarize-v" src="computational">
         <text>We binarize the categorical input so that they can be thought of as a vector from the Euclidean space .</text>
         <propbank>

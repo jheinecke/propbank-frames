@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT-7">
         <text>After interviewing the " Free Syrian Army " active in northern Syria , a female reporter of the US CBS described in her report that these " non - professional armed personnel " were " extremely valiant " in fighting ,</text>

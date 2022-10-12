@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT">
         <text>Then Will Williams and Allen Ruff decided that free speech is n't really free and stood in front of my camera and then bum rushed me along with bald Tom Cruise . Pretty lame .</text>

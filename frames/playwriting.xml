@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="no arg" src="">
         <text>Oh .. Maybe not . Not too many places hiring poets . When I was in college I majored in English but took creative writing , poetry , playwriting , prose writing ...</text>

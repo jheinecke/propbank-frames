@@ -20,10 +20,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Request" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="ARG0 and ARG2 and ARG1" src="ontonotes nw/wsj/07/wsj_0764">
         <text>I take advantage of this opportunity given to me by The Wall Street Journal to make a plea to the millions of readers of this newspaper , to become soldiers dedicated to the fight against the use of drugs .</text>
         <propbank>
@@ -73,10 +73,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Entering_of_plea" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="typical example" src="">
         <text>Southern Co. 's Gulf Power Co. subsidiary pleaded guilty to two felony charges of conspiracy to make illegal political contributions and tax evasion , and paid $ 500,000 in fines .</text>
         <propbank>

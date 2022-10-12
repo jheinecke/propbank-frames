@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="adjectival" src="">
         <text>Many of the toy makers ' problems started well before June 4 as a result of overstrained infrastructure and Beijing 's austerity programs launched late last year .</text>

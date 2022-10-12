@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="idiotic-j" src="">
         <text>The seven bullet limit was idiotic at best and turned law abiding law enforcement officers , veterans and soccer moms into criminals .</text>

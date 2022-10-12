@@ -34,7 +34,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="cheat-10.6.1" confidence="1.0" resource="VerbNet" src="manualchecks" version="verbnet3.4"/>
       </lexlinks>
@@ -74,10 +74,10 @@ CHEATING-N NOTES: Added by Julia based on BOLT, cheat-v.01. Corresponds to VNcls
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Manipulate_into_doing" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="intransitive" src="">
         <text>Mrs. Yeargin 's case also casts some light on the dark side of school reform , where pressures on teachers are growing and where high - stakes testing has enhanced the temptation to cheat .</text>
         <propbank>
@@ -129,7 +129,7 @@ CHEATING-N NOTES: Added by Julia based on BOLT, cheat-v.02. No corresponding VNc
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="when ambiguous, check the context!" src="">
         <text>OH feels very strongly about cheating , so cut her out as much as possible .</text>

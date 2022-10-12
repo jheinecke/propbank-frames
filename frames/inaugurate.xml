@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG2" src="ontonotes mz/sinorama/10/ectb_1030">
         <text>The next day , Chen took advantage of the upcoming presidential inauguration to meet with leaders from a number of countries with which the ROC has diplomatic relations , including the vice - president of El Salvador and the second vice president of Panama .</text>
@@ -63,7 +63,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="more agentive than marker" src="">
         <text>Since then , Moon 's organization has inaugurated a pair of high - quality glossy opinion magazines , The World and I and Insight , which are a further drain .</text>

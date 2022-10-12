@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="resourcefulness-n" src="google-books">
         <text>The positive aspects of Harold 's upbringing — the ease he displays with his peers , his resourcefulness in creating games and organizing his own time , his respectful attitude toward adults , his deep connection to family members-- are rendered nearly invisible in the " real world " of social institutions .</text>

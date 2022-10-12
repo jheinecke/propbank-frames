@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="preposterous-j" src="">
         <text>In response to my question about the possibility of programmed robot assassins , he pompously asserted that the notion was " preposterous . "</text>
         <propbank>

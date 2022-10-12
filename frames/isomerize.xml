@@ -20,7 +20,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="example with intentional agent and result" src="">
         <text>We isomerized these cis - sulfoxides to trans - sulfoxides to evaluate elimination from the trans - precipiton .</text>

@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="alias-v" src="">
         <text>If an Acme Power Screw has a friction of 0.1 and Helix angle of 20 degrees , what is the expected efficiency of this Power Screw ?</text>
@@ -53,7 +53,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="friction-n" src="">
         <text>Has there been any friction with her over the years because of your devotion to your job ?</text>

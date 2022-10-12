@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="both args" src="BOLT-7">
         <text>If teachers were passionate about each student 's growth and had a unique assessment system for each child , Chinese children would not be too far away from the spring of the pasture cattle class .</text>

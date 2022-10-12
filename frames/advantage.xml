@@ -21,7 +21,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="advantageous-j" src="BOLT P01">
         <text>I do n't want to guess their specific motives , but it seems to me that such an arrangement could be very advantageous for those nations in the event of a crisis brought on by peak oil .</text>
@@ -80,7 +80,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="take_advantage-l" src="">
         <text>A vast industry of dubious " debt fixers " has sprung up to take advantage of individuals swamped in a sea of red ink</text>

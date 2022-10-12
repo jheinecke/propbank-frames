@@ -17,7 +17,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="medi-tmprl">
         <text>At this time , we suspect the pulmonary emboli are a sequelae of the AV graft thrombectomy and are likely incidental and asymptomatic .</text>

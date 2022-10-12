@@ -73,7 +73,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Experience_bodily_harm" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Cause_motion" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -196,10 +196,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Prevarication" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="ARG0 and ARG1 and ARG2" src="ontonotes nw/wsj/04/wsj_0458">
         <text>Just when American liberalism had pulled the arms plug on the Contras and their friend Ronald Reagan , along comes Mr. Ortega in Costa Rica this weekend to `` blunder '' into the hands of what are often called conservatives .</text>
         <propbank>
@@ -241,7 +241,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="pull-v" src="">
         <text>The company pulled their ads from the controversial show .</text>
         <propbank>
@@ -299,7 +299,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Withdraw_from_participation" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="withdraw-82-1" confidence="0.8" resource="VerbNet" src="manual+strict-conv" version="verbnet3.3"/>
@@ -356,7 +356,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0" src="ontonotes nw/wsj/21/wsj_2161">
         <text>`` But he pulled through , and after the ambulance left , there were still six people in line waiting for a massage .</text>
@@ -403,10 +403,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Success_or_failure" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="ARG0 and ARG1" src="ontonotes bn/cnn/04/cnn_0408">
         <text>Was there any point at which you did n't think you would be able to pull it off ?</text>
         <propbank>
@@ -445,7 +445,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="ARG0 and ARG1 and ARG2" src="ontonotes wb/c2e/00/c2e_0011">
         <text>Then he pulled Dad over to look at Qingqing 's drawer .</text>
@@ -487,7 +487,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="LVC, from more-nouns" src="">
         <text>When they take their sons out for some exercise , they do n't even have the strength to do a single pull - up !</text>
@@ -531,7 +531,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="example with intentional agent" src="">
         <text>We pulled down the protein complexes with glutathione - Sepharose and detected p53 by western blotting ( Fig . 1d ) .</text>

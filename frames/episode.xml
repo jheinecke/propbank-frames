@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="-"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="have_episode-l" src="">
         <text>My daughter , 22 years , just had another episode of heart palpitations which landed her in the emergency department as she was not able to stop them herself .</text>

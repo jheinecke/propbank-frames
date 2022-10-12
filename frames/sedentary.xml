@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg1" src="medi-tmprl">
         <text>The patient is sedentary , and , therefore , it is difficult to judge her functional status , but she states she gets dyspneic when she dresses herself or when she takes a shower .</text>

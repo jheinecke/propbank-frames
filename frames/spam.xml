@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="arg2" src="BOLT">
         <text>there 's a way to word the description that works and does n't get you slapped for " keyword spamming " -LRB- which is what putting Marshall in the descriptive text will earn you -RRB- .</text>

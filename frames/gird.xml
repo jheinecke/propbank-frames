@@ -18,7 +18,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="gird-v: canonical usage" src="">
         <text>`` How can I face the world if I ca n't gird my loins with comic book characters ? '' asked John .</text>
@@ -49,7 +49,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="gird-v: unstated arg1" src="">
         <text>As rescuers pressed their efforts after finding a survivor in a collapsed freeway , the San Francisco Bay area girded for hundreds of thousands of commuters seeking to avoid routes ravaged by last Tuesday 's tremor .</text>

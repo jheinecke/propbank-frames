@@ -19,7 +19,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="malabsorption-n" src="">
         <text>This impedes his body 's ability to repair the lining of the GI tract , which serves only to exacerbate his malabsorption of nutrients .</text>

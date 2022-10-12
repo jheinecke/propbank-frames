@@ -34,7 +34,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Experiencer_obj" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
         <lexlink class="Experiencer_focus" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
@@ -124,10 +124,10 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks>
         <lexlink class="Experiencer_focus" confidence="0.8" resource="FrameNet" src="manual+strict-conv" version="1.7"/>
-        </lexlinks>
+      </lexlinks>
       <example name="satisfy-v: and reciprocal too" src="">
         <text>However , in light of the risks involved in such transactions , banks should satisfy themselves that they have the skills to participate in this market and clear policy guidelines on acceptable levels of exposure to such transactions , he said .</text>
         <propbank>
@@ -168,7 +168,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="+"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <lexlinks/>
       <example name="satisfactory-j: arg1" src="medi-tmprl">
         <text>Reports : Laboratory tests are reviewed and are satisfactory .</text>

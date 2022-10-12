@@ -16,7 +16,7 @@
         <usage resource="PropBank" version="3.4" inuse="+"/>
         <usage resource="AMR" version="2019" inuse="-"/>
         <usage resource="PropBank" version="Flickr 1.0" inuse="+"/>
-        </usagenotes>
+      </usagenotes>
       <example name="petty-j" src="">
         <text>She glanced at the remote control and momentarily considered stealing it out of spite , but that was petty .</text>
         <propbank>
